@@ -12,3 +12,6 @@ List of Pakistani software organizations or developers contributing in open sour
 |6| Emad Ehsan | [https://github.com/ahmadawais](https://github.com/ahmadawais)|[https://traverous.com/@emad](https://traverous.com/@emad)|JavaScript, Python
 |7| Kamran Ahmed| [https://github.com/kamranahmedse](https://github.com/kamranahmedse)|[http://twitter.com/kamranahmedse](http://twitter.com/kamranahmedse) | JavaScript, Tutorials
 |8| Moin Uddin|[https://github.com/moinism](https://github.com/moinism)| [https://moin.im](https://moin.im/)|JavaScript
+|9| Noman Rafique|[https://github.com/nomanr](https://github.com/nomanr)|[https://medium.com/@nomanr](https://medium.com/@nomanr)|Android, Java
+|10|Muhammad Wajeeh|[https://github.com/mwajeeh](https://github.com/mwajeeh)|[https://stackoverflow.com/users/826606/m-wajeeh](https://stackoverflow.com/users/826606/m-wajeeh)|Java, Android
+|11|Adil Soomro|[https://github.com/AdilSoomro](https://github.com/AdilSoomro)|[http://booleanbites.com](http://booleanbites.com/)|Java, Objective-C
