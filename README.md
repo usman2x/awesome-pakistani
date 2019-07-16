@@ -1,6 +1,6 @@
 ## Awesome Pakistanis
 
-List of Pakistani software organizations or developers contributing in open source.
+Curated list of Pakistani software organizations or developers contributing in open source. 
 
 |#|Name| Github Profile|Website/Blog|Technologies|
 |--|--|--|--|--|
