@@ -17,6 +17,7 @@ Curated list of Pakistani software organizations or developers contributing in o
 |11|Adil Soomro|[https://github.com/AdilSoomro](https://github.com/AdilSoomro)|[http://booleanbites.com](http://booleanbites.com/)|Java, Objective-C
 |12|Naveed Ahmad|https://github.com/naveed-ahmad||Ruby, JavaScript
 |13|Code for Pakistan|https://github.com/codeforpakistan|http://codeforpakistan.org |PHP, JavaScript, Java
+|14|Mashhood Rastgar|https://github.com/mashhoodr|http://imars.info|JavaScript
 
 ## Contribution
 If you found some one mising in this list please create issue or send pull request. :)
