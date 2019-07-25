@@ -19,6 +19,7 @@ Curated list of Pakistani software organizations or developers contributing in o
 |13|Code for Pakistan|https://github.com/codeforpakistan|http://codeforpakistan.org |PHP, JavaScript, Java
 |14|Mashhood Rastgar|https://github.com/mashhoodr|http://imars.info|JavaScript
 |15|Arslan Hassan|https://github.com/arslancb|http://clip-bucket.com/|JavaScript, PHP
+|16|Wahib-Ul-Haq|https://github.com/wahibhaq|http://wahibhaq.com|Java, Kotlin
 
 ## Contribution
 If you found some one mising in this list please create issue or send pull request. :)
