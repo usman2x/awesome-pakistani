@@ -21,6 +21,7 @@ Curated list of Pakistani software organizations or developers contributing in o
 |15|Arslan Hassan|https://github.com/arslancb|http://clip-bucket.com/|JavaScript, PHP
 |16|Wahib-Ul-Haq|https://github.com/wahibhaq|http://wahibhaq.com|Java, Kotlin
 |17|Muhammad Haseeb|https://github.com/iam-mhaseeb| |Python
+|18|PakistanAI|https://github.com/PakistanAI| |Artificial intelligence, Machine learning
 
 ## Contribution
 If you found some one mising in this list please create issue or send pull request. :)
