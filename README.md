@@ -23,6 +23,7 @@ Curated list of Pakistani software organizations or developers contributing in o
 |17|Muhammad Haseeb|https://github.com/iam-mhaseeb| |Python
 |18|PakistanAI|https://github.com/PakistanAI| |Artificial intelligence, Machine learning
 |19|Madiha Batool|https://github.com/MaedahBatool|https://maedahbatool.com| PHP, JavaScript
+|20|Waleed Ashraf|https://github.com/WaleedAshraf|https://waleedashraf.me|JavaScript
 
 ## Contribution
 If you found some one mising in this list please create issue or send pull request. :)
