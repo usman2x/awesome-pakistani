@@ -9,7 +9,7 @@ Curated list of Pakistani software organizations or developers contributing in o
 |3| Zeeshan Ahmad | [https://github.com/ziishaned](https://github.com/ziishaned) |[https://twitter.com/ziishaned](https://twitter.com/ziishaned) |PHP, JavaScript
 |4| Muaz Khan| [https://github.com/muaz-khan](https://github.com/muaz-khan) |  [https://muazkhan.com](https://muazkhan.com/) | JavaScript
 |5| Ahmad Awais|[https://github.com/ahmadawais](https://github.com/ahmadawais)| [https://AhmadAwais.com](https://ahmadawais.com/)|JavaScript, NodeJs
-|6| Emad Ehsan | [https://github.com/ahmadawais](https://github.com/ahmadawais)|[https://traverous.com/@emad](https://traverous.com/@emad)|JavaScript, Python
+|6| Emad Ehsan | [https://github.com/emadehsan](https://github.com/emadehsan)|[https://traverous.com/@emad](https://traverous.com/@emad)|JavaScript, Python
 |7| Kamran Ahmed| [https://github.com/kamranahmedse](https://github.com/kamranahmedse)|[http://twitter.com/kamranahmedse](http://twitter.com/kamranahmedse) | JavaScript, Tutorials
 |8| Moin Uddin|[https://github.com/moinism](https://github.com/moinism)| [https://moin.im](https://moin.im/)|JavaScript
 |9| Noman Rafique|[https://github.com/nomanr](https://github.com/nomanr)|[https://medium.com/@nomanr](https://medium.com/@nomanr)|Android, Java
