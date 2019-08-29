@@ -40,7 +40,7 @@
 
 Contributions welcome!
 
-> _Read the [contribution guidelines](contributing.md) first._
+[❯ Read the contribution guidelines →](https://cloudycam.dev/docs)
 
 ## License
 
