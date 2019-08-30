@@ -24,6 +24,16 @@ Curated list of Pakistani software organizations or developers contributing in o
 |18|PakistanAI|https://github.com/PakistanAI| |Artificial intelligence, Machine learning
 |19|Madiha Batool|https://github.com/MaedahBatool|https://maedahbatool.com| PHP, JavaScript
 |20|Waleed Ashraf|https://github.com/WaleedAshraf|https://waleedashraf.me|JavaScript
+|21|Amin Shah Gilani|https://github.com/amingilani|http://amin.gilani.me|Ruby, JavaScript
+|22|Wajahat Karim|https://github.com/wajahatkarim3|https://wajahatkarim.com|Java, Kotlin, Android
+|23|Rana Jahanzaib|https://github.com/Jahanzaibv2|https://ranajahanzaib.com|JavaScript
+|24|Hamza Anis|https://github.com/HamzaAnis|https://hamzaanis.github.io/|C, Go, Python, TypeScript
+|25|Asad Memon|https://github.com/asadm|https://asadmemon.com/|JavaScript, C#
+|26|Zayn-ul-Abdin|https://github.com/zaynkorai|https://ranajahanzaib.com|Go, Python, Nodejs, Rust, JavaScript
+|27|Saqib Ameen|https://github.com/saqibameen|https://saqibameen.com/|JavaScript, Python, Java
+|28|Ikram Ali|https://github.com/akkefa|https://akkefa.com|JavaScript, Python, Machine learning
+|29|Rehan Sattar|https://github.com/rehan-sattar|https://medium.com/@rehansattar/|JavaScript
+|30|Ghulam Mustafa Raza|https://github.com/ghulamMustafaRaza| |JavaScript
 
 ## Contribution
 If you found some one mising in this list please create issue or send pull request. :)
