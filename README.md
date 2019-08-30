@@ -24,6 +24,8 @@ Curated list of Pakistani software organizations or developers contributing in o
 |18|PakistanAI|https://github.com/PakistanAI| |Artificial intelligence, Machine learning
 |19|Madiha Batool|https://github.com/MaedahBatool|https://maedahbatool.com| PHP, JavaScript
 |20|Waleed Ashraf|https://github.com/WaleedAshraf|https://waleedashraf.me|JavaScript
+|21|Wajahat Karim|https://github.com/wajahatkarim3|https://wajahatkarim.com|Android, Java, Kotlin
+|22|Adeel Zafar|https://github.com/iadeelzafar|https://adeelzafar.dev|Android, Java, Kotlin
 
 ## Contribution
 If you found some one mising in this list please create issue or send pull request. :)
