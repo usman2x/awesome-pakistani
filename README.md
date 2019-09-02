@@ -34,6 +34,7 @@ Curated list of Pakistani software organizations or developers contributing in o
 |28|Ikram Ali|https://github.com/akkefa|https://akkefa.com|JavaScript, Python, Machine learning
 |29|Rehan Sattar|https://github.com/rehan-sattar|https://medium.com/@rehansattar/|JavaScript
 |30|Ghulam Mustafa Raza|https://github.com/ghulamMustafaRaza| |JavaScript
+|31| Aminullah Taj Muhammad|[https://github.com/AminullahTajMuhammad](https://github.com/AminullahTajMuhammad)| [https://aminullahtajmuhammad.github.io](https://aminullahtajmuhammad.github.io)|Java, Kotlin, Android
 
 ## Contribution
 If you found some one mising in this list please create issue or send pull request. :)
