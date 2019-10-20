@@ -38,6 +38,8 @@ Curated list of Pakistani software organizations or developers contributing in o
 |Open Source Foundation Pakistan|https://github.com/osfp-Pakistan| https://osfp.org.pk | Python, Java, JavaScript, Go, C#
 | Haris Muneer |https://github.com/harismuneer |https://www.linkedin.com/in/harismuneer| Python, Java, C#
 | Zeeshan Hanif| https://github.com/zeeshanhanif| www.zeeshanhanif.info| JavaScript
+| Raees Iqbal | https://github.com/raeesbhatti| https://raeesbhatti.com | Serverless, JAMStack, NodeJS, Go
+| Anees Iqbal | https://github.com/steelbrain| https://steelbrain.me | Tooling, NodeJS, JavaScript
 
 
 ## Contribution
