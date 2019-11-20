@@ -38,6 +38,7 @@ Curated list of Pakistani software organizations or developers contributing in o
 |32|Open Source Foundation Pakistan|https://github.com/osfp-Pakistan| https://osfp.org.pk | Python, Java, JavaScript, Go, C#
 |33| Haris Muneer |https://github.com/harismuneer |https://www.linkedin.com/in/harismuneer| Python, Java, C#
 |34| Zeeshan Hanif| https://github.com/zeeshanhanif| www.zeeshanhanif.info| JavaScript
+|35| Saad Pasta| https://github.com/saadpasta | https://saadpasta.github.io/ |JavaScript
 
 
 ## Contribution
