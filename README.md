@@ -39,6 +39,7 @@ Curated list of Pakistani software organizations or developers contributing in o
 |33| Haris Muneer |https://github.com/harismuneer |https://www.linkedin.com/in/harismuneer| Python, Java, C#
 |34| Zeeshan Hanif| https://github.com/zeeshanhanif| www.zeeshanhanif.info| JavaScript
 |35| Saad Pasta| https://github.com/saadpasta | https://saadpasta.github.io/ |JavaScript
+|36| Noman Gul| https://github.com/NomanGul | https://dev.to/nomangul |JavaScript, ReactJS
 
 
 ## Contribution
