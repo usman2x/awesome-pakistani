@@ -41,6 +41,8 @@ Curated list of Pakistani software organizations or developers contributing in o
 |35| Saad Pasta| https://github.com/saadpasta | https://saadpasta.github.io/ |JavaScript
 |36| Noman Gul| https://github.com/NomanGul | https://dev.to/nomangul |JavaScript, ReactJS
 |37| Muhammad Hasham | https://github.com/MohammadHasham | https://muhammadhasham.com | Javascript
+|38| Mohammad Quanit | https://github.com/Mohammad-Quanit | https://mohammad-quanit.github.io/ | Javascript, Angular, React, Flutter, Web Technologies
+
 
 ## Contribution
 If you found some one mising in this list please create issue or send pull request. :)
