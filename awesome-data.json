@@ -29,7 +29,7 @@
                     "name": "PakistanAI",
                     "github_link": "https://github.com/PakistanAI",
                     "github_user": "PakistanAI",
-                    "web": "",
+                    "web": "https://github.com/PakistanAI",
                     "technologies": [
                         "Artificial intelligence",
                         "Machine learning"
@@ -152,18 +152,8 @@
                 {
                     "name": "Naveed Ahmad",
                     "github_link": "https://github.com/naveed-ahmad",
-                    "github_user": "naveed-ahmad",
-                    "web": "http://booleanbites.com",
-                    "technologies": [
-                        "Ruby",
-                        "JavaScript"
-                    ]
-                },
-                {
-                    "name": "Naveed Ahmad",
-                    "github_link": "https://github.com/naveed-ahmad",
-                    "github_user": "naveed-ahmad",
-                    "web": "http://booleanbites.com",
+                    "github_user": "naveed-ahmad",  
+                    "web": "https://github.com/naveed-ahmad",
                     "technologies": [
                         "Ruby",
                         "JavaScript"
@@ -202,16 +192,7 @@
                     "name": "Muhammad Haseeb",
                     "github_link": "https://github.com/iam-mhaseeb",
                     "github_user": "iam-mhaseeb",
-                    "web": "",
-                    "technologies": [
-                        "Python"
-                    ]
-                },
-                {
-                    "name": "Muhammad Haseeb",
-                    "github_link": "https://github.com/iam-mhaseeb",
-                    "github_user": "iam-mhaseeb",
-                    "web": "",
+                    "web": "https://github.com/iam-mhaseeb",
                     "technologies": [
                         "Python"
                     ]
@@ -291,7 +272,7 @@
                     "name": "Zayn-ul-Abdin",
                     "github_link": "https://github.com/zaynkorai",
                     "github_user": "zaynkorai",
-                    "web": "https://ranajahanzaib.com",
+                    "web": "https://github.com/zaynkorai",
                     "technologies": [
                         "Go",
                         "Python",
@@ -335,7 +316,7 @@
                     "name": "Ghulam Mustafa Raza",
                     "github_link": "https://github.com/ghulamMustafaRaza",
                     "github_user": "ghulamMustafaRaza",
-                    "web": "",
+                    "web": "https://github.com/ghulamMustafaRaza",
                     "technologies": [
                         "JavaScript"
                     ]
@@ -366,7 +347,7 @@
                     "name": "Zeeshan Hanif",
                     "github_link": "https://github.com/zeeshanhanif",
                     "github_user": "zeeshanhanif",
-                    "web": "www.zeeshanhanif.info",
+                    "web": "http://www.zeeshanhanif.info",
                     "technologies": [
                         "JavaScript"
                     ]

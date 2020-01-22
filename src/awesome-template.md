@@ -10,7 +10,7 @@
 
 | Name | Github Profile | Technologies | Web |
 | --- | --- | --- | --- |
-<% for (j in awesome[i].profiles) { %>| <%= awesome[i].profiles[j].name %> | [@<%= awesome[i].profiles[j].github_user %>](<%= awesome[i].profiles[j].github_link %>) | <%= awesome[i].profiles[j].technologies.toString()%> |  [🌍](<%= awesome[i].profiles[j].web %>) | 
+<% for (j in awesome[i].profiles) { %>| <%= awesome[i].profiles[j].name %> | [@<%= awesome[i].profiles[j].github_user %>](<%= awesome[i].profiles[j].github_link %>) | <%= awesome[i].profiles[j].technologies.join(", ")%> |  [🌍](<%= awesome[i].profiles[j].web %>) | 
 <% } %>
 <% } %>
 
