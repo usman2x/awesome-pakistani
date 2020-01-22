@@ -1,47 +1,72 @@
-## Awesome Pakistanis
+# Awesome Pakistan
+> Curated list of Pakistani software organizations and indidual developers contributing in open source.
 
-Curated list of Pakistani software organizations or developers contributing in open source. 
+## Contents
+ - [Organizations](#Organizations)
+ - [Individuals](#Individuals)
+ - [Seminars](#Seminars)
 
-|#|Name| Github Profile|Website/Blog|Technologies|
-|--|--|--|--|--|
-|1 | Arbisoft|[https://github.com/arbisoft](https://github.com/arbisoft)|[https://arbisoft.com](https://arbisoft.com/) | Python, JavaScript, Machine Learning
-|2 | Sarfraz Ahmed| [https://github.com/sarfraznawaz2005](https://github.com/sarfraznawaz2005)| [https://codeinphp.github.io](https://codeinphp.github.io/)|PHP, JavaScrip
-|3| Zeeshan Ahmad | [https://github.com/ziishaned](https://github.com/ziishaned) |[https://twitter.com/ziishaned](https://twitter.com/ziishaned) |PHP, JavaScript
-|4| Muaz Khan| [https://github.com/muaz-khan](https://github.com/muaz-khan) |  [https://muazkhan.com](https://muazkhan.com/) | JavaScript
-|5| Ahmad Awais|[https://github.com/ahmadawais](https://github.com/ahmadawais)| [https://AhmadAwais.com](https://ahmadawais.com/)|JavaScript, NodeJs
-|6| Emad Ehsan | [https://github.com/emadehsan](https://github.com/emadehsan)|[https://traverous.com/@emad](https://traverous.com/@emad)|JavaScript, Python
-|7| Kamran Ahmed| [https://github.com/kamranahmedse](https://github.com/kamranahmedse)|[http://twitter.com/kamranahmedse](http://twitter.com/kamranahmedse) | JavaScript, Tutorials
-|8| Moin Uddin|[https://github.com/moinism](https://github.com/moinism)| [https://moin.im](https://moin.im/)|JavaScript
-|9| Noman Rafique|[https://github.com/nomanr](https://github.com/nomanr)|[https://medium.com/@nomanr](https://medium.com/@nomanr)|Android, Java
-|10|Muhammad Wajeeh|[https://github.com/mwajeeh](https://github.com/mwajeeh)|[https://stackoverflow.com/users/826606/m-wajeeh](https://stackoverflow.com/users/826606/m-wajeeh)|Java, Android
-|11|Adil Soomro|[https://github.com/AdilSoomro](https://github.com/AdilSoomro)|[http://booleanbites.com](http://booleanbites.com/)|Java, Objective-C
-|12|Naveed Ahmad|https://github.com/naveed-ahmad||Ruby, JavaScript
-|13|Code for Pakistan|https://github.com/codeforpakistan|http://codeforpakistan.org |PHP, JavaScript, Java
-|14|Mashhood Rastgar|https://github.com/mashhoodr|http://imars.info|JavaScript
-|15|Arslan Hassan|https://github.com/arslancb|http://clip-bucket.com/|JavaScript, PHP
-|16|Wahib-Ul-Haq|https://github.com/wahibhaq|http://wahibhaq.com|Java, Kotlin
-|17|Muhammad Haseeb|https://github.com/iam-mhaseeb| |Python
-|18|PakistanAI|https://github.com/PakistanAI| |Artificial intelligence, Machine learning
-|19|Madiha Batool|https://github.com/MaedahBatool|https://maedahbatool.com| PHP, JavaScript
-|20|Waleed Ashraf|https://github.com/WaleedAshraf|https://waleedashraf.me|JavaScript
-|21|Amin Shah Gilani|https://github.com/amingilani|http://amin.gilani.me|Ruby, JavaScript
-|22|Wajahat Karim|https://github.com/wajahatkarim3|https://wajahatkarim.com|Java, Kotlin, Android
-|23|Rana Jahanzaib|https://github.com/Jahanzaibv2|https://ranajahanzaib.com|JavaScript
-|24|Hamza Anis|https://github.com/HamzaAnis|https://hamzaanis.github.io/|C, Go, Python, TypeScript
-|25|Asad Memon|https://github.com/asadm|https://asadmemon.com/|JavaScript, C#
-|26|Zayn-ul-Abdin|https://github.com/zaynkorai|https://ranajahanzaib.com|Go, Python, Nodejs, Rust, JavaScript
-|27|Saqib Ameen|https://github.com/saqibameen|https://saqibameen.com/|JavaScript, Python, Java
-|28|Ikram Ali|https://github.com/akkefa|https://akkefa.com|JavaScript, Python, Machine learning
-|29|Rehan Sattar|https://github.com/rehan-sattar|https://medium.com/@rehansattar/|JavaScript
-|30|Ghulam Mustafa Raza|https://github.com/ghulamMustafaRaza| |JavaScript
-|31|Vivek Anand Sharma|https://github.com/viveksharmaui| https://viveksharmaui.github.io/portfolio/ |JavaScript, CloudNative, DevOps
-|32|Open Source Foundation Pakistan|https://github.com/osfp-Pakistan| https://osfp.org.pk | Python, Java, JavaScript, Go, C#
-|33| Haris Muneer |https://github.com/harismuneer |https://www.linkedin.com/in/harismuneer| Python, Java, C#
-|34| Zeeshan Hanif| https://github.com/zeeshanhanif| www.zeeshanhanif.info| JavaScript
-|35| Saad Pasta| https://github.com/saadpasta | https://saadpasta.github.io/ |JavaScript
-|36| Noman Gul| https://github.com/NomanGul | https://dev.to/nomangul |JavaScript, ReactJS
-|37| Muhammad Hasham | https://github.com/MohammadHasham | https://muhammadhasham.com | Javascript
-|38| Badar Khan | https://github.com/badarshahzad | https://twitter.com/badarshahzad54 |Java, JavaScript
+
+
+<h3><a name="Organizations"></a>Organizations</h3>
+
+| Name | Github Profile | Technologies | Web |
+| --- | --- | --- | --- |
+| Arbisoft | [@arbisoft](https://github.com/arbisoft) | Python,JavaScript,Machine Learning |  [🌍](https://arbisoft.com) | 
+| Code for Pakistan | [@codeforpakistan](https://github.com/codeforpakistan) | PHP,JavaScript,Java |  [🌍](http://codeforpakistan.org) | 
+| PakistanAI | [@PakistanAI](https://github.com/PakistanAI) | Artificial intelligence,Machine learning |  [🌍]() | 
+| Open Source Foundation Pakistan | [@osfp-Pakistan](https://github.com/osfp-Pakistan) | Python,Java,JavaScript,Go,C# |  [🌍](https://osfp.org.pk) | 
+
+
+<h3><a name="Individuals"></a>Individuals</h3>
+
+| Name | Github Profile | Technologies | Web |
+| --- | --- | --- | --- |
+| Sarfraz Ahmed | [@sarfraznawaz2005](https://github.com/sarfraznawaz2005) | PHP,JavaScript |  [🌍](https://codeinphp.github.io) | 
+| Zeeshan Ahmad | [@ziishaned](https://github.com/ziishaned) | PHP,JavaScript |  [🌍](https://twitter.com/ziishaned) | 
+| Muaz Khan | [@muaz-khan](https://github.com/muaz-khan) | JavaScript |  [🌍](https://muazkhan.com) | 
+| Ahmad Awais | [@ahmadawais](https://github.com/ahmadawais) | JavaScript |  [🌍](https://AhmadAwais.com) | 
+| Emad Ehsan | [@emadehsan](https://github.com/emadehsan) | JavaScript,Python |  [🌍](https://traverous.com/@emad) | 
+| Kamran Ahmed | [@kamranahmedse](https://github.com/kamranahmedse) | JavaScript |  [🌍](http://twitter.com/kamranahmedse) | 
+| Moin Uddin | [@moinism](https://github.com/moinism) | JavaScript |  [🌍](https://moin.im) | 
+| Noman Rafique | [@nomanr](https://github.com/nomanr) | Java,Android |  [🌍](https://medium.com/@nomanr) | 
+| Muhammad Wajeeh | [@mwajeeh](https://github.com/mwajeeh) | Java,Android |  [🌍](https://stackoverflow.com/users/826606/m-wajeeh) | 
+| Adil Soomro | [@AdilSoomro](https://github.com/AdilSoomro) | Java,Objective-C |  [🌍](http://booleanbites.com) | 
+| Naveed Ahmad | [@naveed-ahmad](https://github.com/naveed-ahmad) | Ruby,JavaScript |  [🌍](http://booleanbites.com) | 
+| Naveed Ahmad | [@naveed-ahmad](https://github.com/naveed-ahmad) | Ruby,JavaScript |  [🌍](http://booleanbites.com) | 
+| Mashhood Rastgar | [@mashhoodr](https://github.com/mashhoodr) | JavaScript |  [🌍](http://imars.info) | 
+| Arslan Hassan | [@arslancb](https://github.com/arslancb) | JavaScript,PHP |  [🌍](http://clip-bucket.com/) | 
+| Wahib-Ul-Haq | [@wahibhaq](https://github.com/wahibhaq) | Java,Kotlin |  [🌍](http://wahibhaq.com) | 
+| Muhammad Haseeb | [@iam-mhaseeb](https://github.com/iam-mhaseeb) | Python |  [🌍]() | 
+| Muhammad Haseeb | [@iam-mhaseeb](https://github.com/iam-mhaseeb) | Python |  [🌍]() | 
+| Madiha Batool | [@MaedahBatool](https://github.com/MaedahBatool) | PHP,JavaScript |  [🌍](https://maedahbatool.com) | 
+| Waleed Ashraf | [@WaleedAshraf](https://github.com/WaleedAshraf) | JavaScript |  [🌍](https://waleedashraf.me) | 
+| Amin Shah Gilani | [@amingilani](https://github.com/amingilani) | JavaScript,Ruby |  [🌍](http://amin.gilani.me) | 
+| Wajahat Karim | [@wajahatkarim3](https://github.com/wajahatkarim3) | Java,Kotlin,Android |  [🌍](https://wajahatkarim.com) | 
+| Rana Jahanzaib | [@Jahanzaibv2](https://github.com/Jahanzaibv2) | JavaScript |  [🌍](https://ranajahanzaib.com) | 
+| Hamza Anis | [@HamzaAnis](https://github.com/HamzaAnis) | C,Go,Python,TypeScript |  [🌍](https://hamzaanis.github.io/) | 
+| Asad Memon | [@asadm](https://github.com/asadm) | JavaScript,C# |  [🌍](https://asadmemon.com/) | 
+| Zayn-ul-Abdin | [@zaynkorai](https://github.com/zaynkorai) | Go,Python,Nodejs,Rust,JavaScript |  [🌍](https://ranajahanzaib.com) | 
+| Saqib Ameen | [@saqibameen](https://github.com/saqibameen) | JavaScript,Python,Java |  [🌍](https://saqibameen.com/) | 
+| Ikram Ali | [@akkefa](https://github.com/akkefa) | JavaScript,Python,Machine learning |  [🌍](https://akkefa.com) | 
+| Rehan Sattar | [@rehan-sattar](https://github.com/rehan-sattar) | JavaScript |  [🌍](https://medium.com/@rehansattar/) | 
+| Ghulam Mustafa Raza | [@ghulamMustafaRaza](https://github.com/ghulamMustafaRaza) | JavaScript |  [🌍]() | 
+| Vivek Anand Sharma | [@viveksharmaui](https://github.com/viveksharmaui) | JavaScript,CloudNative,DevOps |  [🌍](https://viveksharmaui.github.io/portfolio/) | 
+| Haris Muneer | [@harismuneer](https://github.com/harismuneer) | Python,Java,C# |  [🌍](https://www.linkedin.com/in/harismuneer) | 
+| Zeeshan Hanif | [@zeeshanhanif](https://github.com/zeeshanhanif) | JavaScript |  [🌍](www.zeeshanhanif.info) | 
+| Saad Pasta | [@saadpasta](https://github.com/saadpasta) | JavaScript |  [🌍](https://saadpasta.github.io/) | 
+| Noman Gul | [@NomanGul](https://github.com/NomanGul) | JavaScript |  [🌍](https://dev.to/nomangul) | 
+| Muhammad Hasham | [@MohammadHasham](https://github.com/MohammadHasham) | JavaScript |  [🌍](https://muhammadhasham.com) | 
+| Badar Khan | [@badarshahzad](https://github.com/badarshahzad) | JavaScript,Java |  [🌍](https://twitter.com/badarshahzad54) | 
+
+
+<h3><a name="Seminars"></a>Seminars</h3>
+
+| Name | Github Profile | Technologies | Web |
+| --- | --- | --- | --- |
+| Code Movement Pakistan | [@]() | Tutorials |  [🌍](https://codemovement.pk/) | 
+
+
 
 ## Contribution
-If you found some one mising in this list please create issue or send pull request. :)
+Please do not update `Readme.md` file, it is auto generated, Add your entry in `data.json` file and create PR with nice description.
