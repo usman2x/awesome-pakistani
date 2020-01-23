@@ -1,0 +1,409 @@
+{
+    "awesome": [
+        {
+            "type": "Organizations",
+            "profiles": [
+                {
+                    "name": "Arbisoft",
+                    "github_link": "https://github.com/arbisoft",
+                    "github_user": "arbisoft",
+                    "web": "https://arbisoft.com",
+                    "technologies": [
+                        "Python",
+                        "JavaScript",
+                        "Machine Learning"
+                    ]
+                },
+                {
+                    "name": "Code for Pakistan",
+                    "github_link": "https://github.com/codeforpakistan",
+                    "github_user": "codeforpakistan",
+                    "web": "http://codeforpakistan.org",
+                    "technologies": [
+                        "PHP",
+                        "JavaScript",
+                        "Java"
+                    ]
+                },
+                {
+                    "name": "PakistanAI",
+                    "github_link": "https://github.com/PakistanAI",
+                    "github_user": "PakistanAI",
+                    "web": "https://github.com/PakistanAI",
+                    "technologies": [
+                        "Artificial intelligence",
+                        "Machine learning"
+                    ]
+                },
+                {
+                    "name": "Open Source Foundation Pakistan",
+                    "github_link": "https://github.com/osfp-Pakistan",
+                    "github_user": "osfp-Pakistan",
+                    "web": "https://osfp.org.pk",
+                    "technologies": [
+                        "Python",
+                        "Java",
+                        "JavaScript",
+                        "Go",
+                        "C#"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Individuals",
+            "profiles": [
+                {
+                    "name": "Sarfraz Ahmed",
+                    "github_link": "https://github.com/sarfraznawaz2005",
+                    "github_user": "sarfraznawaz2005",
+                    "web": "https://codeinphp.github.io",
+                    "technologies": [
+                        "PHP",
+                        "JavaScript"
+                    ]
+                },
+                {
+                    "name": "Zeeshan Ahmad",
+                    "github_link": "https://github.com/ziishaned",
+                    "github_user": "ziishaned",
+                    "web": "https://twitter.com/ziishaned",
+                    "technologies": [
+                        "PHP",
+                        "JavaScript"
+                    ]
+                },
+                {
+                    "name": "Muaz Khan",
+                    "github_link": "https://github.com/muaz-khan",
+                    "github_user": "muaz-khan",
+                    "web": "https://muazkhan.com",
+                    "technologies": [
+                        "JavaScript"
+                    ]
+                },
+                {
+                    "name": "Ahmad Awais",
+                    "github_link": "https://github.com/ahmadawais",
+                    "github_user": "ahmadawais",
+                    "web": "https://AhmadAwais.com",
+                    "technologies": [
+                        "JavaScript"
+                    ]
+                },
+                {
+                    "name": "Emad Ehsan",
+                    "github_link": "https://github.com/emadehsan",
+                    "github_user": "emadehsan",
+                    "web": "https://traverous.com/@emad",
+                    "technologies": [
+                        "JavaScript",
+                        "Python"
+                    ]
+                },
+                {
+                    "name": "Kamran Ahmed",
+                    "github_link": "https://github.com/kamranahmedse",
+                    "github_user": "kamranahmedse",
+                    "web": "http://twitter.com/kamranahmedse",
+                    "technologies": [
+                        "JavaScript"
+                    ]
+                },
+                {
+                    "name": "Moin Uddin",
+                    "github_link": "https://github.com/moinism",
+                    "github_user": "moinism",
+                    "web": "https://moin.im",
+                    "technologies": [
+                        "JavaScript"
+                    ]
+                },
+                {
+                    "name": "Noman Rafique",
+                    "github_link": "https://github.com/nomanr",
+                    "github_user": "nomanr",
+                    "web": "https://medium.com/@nomanr",
+                    "technologies": [
+                        "Java",
+                        "Android"
+                    ]
+                },
+                {
+                    "name": "Muhammad Wajeeh",
+                    "github_link": "https://github.com/mwajeeh",
+                    "github_user": "mwajeeh",
+                    "web": "https://stackoverflow.com/users/826606/m-wajeeh",
+                    "technologies": [
+                        "Java",
+                        "Android"
+                    ]
+                },
+                {
+                    "name": "Adil Soomro",
+                    "github_link": "https://github.com/AdilSoomro",
+                    "github_user": "AdilSoomro",
+                    "web": "http://booleanbites.com",
+                    "technologies": [
+                        "Java",
+                        "Objective-C"
+                    ]
+                },
+                {
+                    "name": "Naveed Ahmad",
+                    "github_link": "https://github.com/naveed-ahmad",
+                    "github_user": "naveed-ahmad",  
+                    "web": "https://github.com/naveed-ahmad",
+                    "technologies": [
+                        "Ruby",
+                        "JavaScript"
+                    ]
+                },
+                {
+                    "name": "Mashhood Rastgar",
+                    "github_link": "https://github.com/mashhoodr",
+                    "github_user": "mashhoodr",
+                    "web": "http://imars.info",
+                    "technologies": [
+                        "JavaScript"
+                    ]
+                },
+                {
+                    "name": "Arslan Hassan",
+                    "github_link": "https://github.com/arslancb",
+                    "github_user": "arslancb",
+                    "web": "http://clip-bucket.com/",
+                    "technologies": [
+                        "JavaScript",
+                        "PHP"
+                    ]
+                },
+                {
+                    "name": "Wahib-Ul-Haq",
+                    "github_link": "https://github.com/wahibhaq",
+                    "github_user": "wahibhaq",
+                    "web": "http://wahibhaq.com",
+                    "technologies": [
+                        "Java",
+                        "Kotlin"
+                    ]
+                },
+                {
+                    "name": "Muhammad Haseeb",
+                    "github_link": "https://github.com/iam-mhaseeb",
+                    "github_user": "iam-mhaseeb",
+                    "web": "https://github.com/iam-mhaseeb",
+                    "technologies": [
+                        "Python"
+                    ]
+                },
+                {
+                    "name": "Madiha Batool",
+                    "github_link": "https://github.com/MaedahBatool",
+                    "github_user": "MaedahBatool",
+                    "web": "https://maedahbatool.com",
+                    "technologies": [
+                        "PHP",
+                        "JavaScript"
+                    ]
+                },
+                {
+                    "name": "Waleed Ashraf",
+                    "github_link": "https://github.com/WaleedAshraf",
+                    "github_user": "WaleedAshraf",
+                    "web": "https://waleedashraf.me",
+                    "technologies": [
+                        "JavaScript"
+                    ]
+                },
+                {
+                    "name": "Amin Shah Gilani",
+                    "github_link": "https://github.com/amingilani",
+                    "github_user": "amingilani",
+                    "web": "http://amin.gilani.me",
+                    "technologies": [
+                        "JavaScript",
+                        "Ruby"
+                    ]
+                },
+                {
+                    "name": "Wajahat Karim",
+                    "github_link": "https://github.com/wajahatkarim3",
+                    "github_user": "wajahatkarim3",
+                    "web": "https://wajahatkarim.com",
+                    "technologies": [
+                        "Java",
+                        "Kotlin",
+                        "Android"
+                    ]
+                },
+                {
+                    "name": "Rana Jahanzaib",
+                    "github_link": "https://github.com/Jahanzaibv2",
+                    "github_user": "Jahanzaibv2",
+                    "web": "https://ranajahanzaib.com",
+                    "technologies": [
+                        "JavaScript"
+                    ]
+                },
+                {
+                    "name": "Hamza Anis",
+                    "github_link": "https://github.com/HamzaAnis",
+                    "github_user": "HamzaAnis",
+                    "web": "https://hamzaanis.github.io/",
+                    "technologies": [
+                        "C",
+                        "Go",
+                        "Python",
+                        "TypeScript"
+                    ]
+                },
+                {
+                    "name": "Asad Memon",
+                    "github_link": "https://github.com/asadm",
+                    "github_user": "asadm",
+                    "web": "https://asadmemon.com/",
+                    "technologies": [
+                        "JavaScript",
+                        "C#"
+                    ]
+                },
+                {
+                    "name": "Zayn-ul-Abdin",
+                    "github_link": "https://github.com/zaynkorai",
+                    "github_user": "zaynkorai",
+                    "web": "https://github.com/zaynkorai",
+                    "technologies": [
+                        "Go",
+                        "Python",
+                        "Nodejs",
+                        "Rust",
+                        "JavaScript"
+                    ]
+                },
+                {
+                    "name": "Saqib Ameen",
+                    "github_link": "https://github.com/saqibameen",
+                    "github_user": "saqibameen",
+                    "web": "https://saqibameen.com/",
+                    "technologies": [
+                        "JavaScript",
+                        "Python",
+                        "Java"
+                    ]
+                },
+                {
+                    "name": "Ikram Ali",
+                    "github_link": "https://github.com/akkefa",
+                    "github_user": "akkefa",
+                    "web": "https://akkefa.com",
+                    "technologies": [
+                        "JavaScript",
+                        "Python",
+                        "Machine learning"
+                    ]
+                },
+                {
+                    "name": "Rehan Sattar",
+                    "github_link": "https://github.com/rehan-sattar",
+                    "github_user": "rehan-sattar",
+                    "web": "https://medium.com/@rehansattar/",
+                    "technologies": [
+                        "JavaScript"
+                    ]
+                },
+                {
+                    "name": "Ghulam Mustafa Raza",
+                    "github_link": "https://github.com/ghulamMustafaRaza",
+                    "github_user": "ghulamMustafaRaza",
+                    "web": "https://github.com/ghulamMustafaRaza",
+                    "technologies": [
+                        "JavaScript"
+                    ]
+                },
+                {
+                    "name": "Vivek Anand Sharma",
+                    "github_link": "https://github.com/viveksharmaui",
+                    "github_user": "viveksharmaui",
+                    "web": "https://viveksharmaui.github.io/portfolio/",
+                    "technologies": [
+                        "JavaScript",
+                        "CloudNative",
+                        "DevOps"
+                    ]
+                },
+                {
+                    "name": "Haris Muneer",
+                    "github_link": "https://github.com/harismuneer",
+                    "github_user": "harismuneer",
+                    "web": "https://www.linkedin.com/in/harismuneer",
+                    "technologies": [
+                        "Python",
+                        "Java",
+                        "C#"
+                    ]
+                },
+                {
+                    "name": "Zeeshan Hanif",
+                    "github_link": "https://github.com/zeeshanhanif",
+                    "github_user": "zeeshanhanif",
+                    "web": "http://www.zeeshanhanif.info",
+                    "technologies": [
+                        "JavaScript"
+                    ]
+                },
+                {
+                    "name": "Saad Pasta",
+                    "github_link": "https://github.com/saadpasta",
+                    "github_user": "saadpasta",
+                    "web": "https://saadpasta.github.io/",
+                    "technologies": [
+                        "JavaScript"
+                    ]
+                },
+                {
+                    "name": "Noman Gul",
+                    "github_link": "https://github.com/NomanGul",
+                    "github_user": "NomanGul",
+                    "web": "https://dev.to/nomangul",
+                    "technologies": [
+                        "JavaScript"
+                    ]
+                },
+                {
+                    "name": "Muhammad Hasham",
+                    "github_link": "https://github.com/MohammadHasham",
+                    "github_user": "MohammadHasham",
+                    "web": "https://muhammadhasham.com",
+                    "technologies": [
+                        "JavaScript"
+                    ]
+                },
+                {
+                    "name": "Badar Khan",
+                    "github_link": "https://github.com/badarshahzad",
+                    "github_user": "badarshahzad",
+                    "web": "https://twitter.com/badarshahzad54",
+                    "technologies": [
+                        "JavaScript",
+                        "Java"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Seminars",
+            "profiles": [
+                {
+                    "name": "Code Movement Pakistan",
+                    "github_link": "",
+                    "github_user": "",
+                    "web": "https://codemovement.pk/",
+                    "technologies": [
+                        "Tutorials"
+                    ]
+                }
+            ]
+        }
+    ]
+}
