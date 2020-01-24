@@ -56,6 +56,7 @@
 | Noman Gul | [@NomanGul](https://github.com/NomanGul) | JavaScript |  [🌍](https://dev.to/nomangul) | 
 | Muhammad Hasham | [@MohammadHasham](https://github.com/MohammadHasham) | JavaScript |  [🌍](https://muhammadhasham.com) | 
 | Badar Khan | [@badarshahzad](https://github.com/badarshahzad) | JavaScript, Java |  [🌍](https://twitter.com/badarshahzad54) | 
+| Raees Iqbal | [@RaeesBhatti](https://github.com/RaeesBhatti) | JavaScript, C#, Go |  [🌍](https://raeesbhatti.com) | 
 
 
 <h3><a name="Seminars"></a>Seminars</h3>
