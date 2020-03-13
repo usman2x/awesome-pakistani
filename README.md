@@ -1,24 +1,14 @@
 # Awesome Pakistan
+
 > Curated list of Pakistani software organizations and indidual developers contributing in open source.
 
 ## Contents
- - [Organizations](#Organizations)
- - [Individuals](#Individuals)
- - [Seminars](#Seminars)
 
+- [Individuals](#Individuals)
+- [Companies](#Companies)
+- [Seminars](#Seminars)
 
-
-<h3><a name="Organizations"></a>Organizations</h3>
-
-| Name | Github Profile | Technologies | Web |
-| --- | --- | --- | --- |
-| Arbisoft | [@arbisoft](https://github.com/arbisoft) | Python, JavaScript, Machine Learning |  [🌍](https://arbisoft.com) | 
-| Code for Pakistan | [@codeforpakistan](https://github.com/codeforpakistan) | PHP, JavaScript, Java |  [🌍](http://codeforpakistan.org) | 
-| PakistanAI | [@PakistanAI](https://github.com/PakistanAI) | Artificial intelligence, Machine learning |  [🌍](https://github.com/PakistanAI) | 
-| Open Source Foundation Pakistan | [@osfp-Pakistan](https://github.com/osfp-Pakistan) | Python, Java, JavaScript, Go, C# |  [🌍](https://osfp.org.pk) | 
-
-
-<h3><a name="Individuals"></a>Individuals</h3>
+### Individuals
 
 | Name | Github Profile | Technologies | Web |
 | --- | --- | --- | --- |
@@ -37,7 +27,7 @@
 | Arslan Hassan | [@arslancb](https://github.com/arslancb) | JavaScript, PHP |  [🌍](http://clip-bucket.com/) | 
 | Wahib-Ul-Haq | [@wahibhaq](https://github.com/wahibhaq) | Java, Kotlin |  [🌍](http://wahibhaq.com) | 
 | Muhammad Haseeb | [@iam-mhaseeb](https://github.com/iam-mhaseeb) | Python |  [🌍](https://github.com/iam-mhaseeb) | 
-| Madiha Batool | [@MaedahBatool](https://github.com/MaedahBatool) | PHP, JavaScript |  [🌍](https://maedahbatool.com) | 
+| Maedah Batool | [@MaedahBatool](https://github.com/MaedahBatool) | PHP, JavaScript |  [🌍](https://maedahbatool.com) | 
 | Waleed Ashraf | [@WaleedAshraf](https://github.com/WaleedAshraf) | JavaScript |  [🌍](https://waleedashraf.me) | 
 | Amin Shah Gilani | [@amingilani](https://github.com/amingilani) | JavaScript, Ruby |  [🌍](http://amin.gilani.me) | 
 | Wajahat Karim | [@wajahatkarim3](https://github.com/wajahatkarim3) | Java, Kotlin, Android |  [🌍](https://wajahatkarim.com) | 
@@ -59,7 +49,16 @@
 | Raees Iqbal | [@RaeesBhatti](https://github.com/RaeesBhatti) | JavaScript, C#, Go |  [🌍](https://raeesbhatti.com) | 
 
 
-<h3><a name="Seminars"></a>Seminars</h3>
+### Companies
+
+| Name | Github Profile | Technologies | Web |
+| --- | --- | --- | --- |
+| Arbisoft | [@arbisoft](https://github.com/arbisoft) | Python, JavaScript, Machine Learning |  [🌍](https://arbisoft.com) | 
+| Code for Pakistan | [@codeforpakistan](https://github.com/codeforpakistan) | PHP, JavaScript, Java |  [🌍](http://codeforpakistan.org) | 
+| PakistanAI | [@PakistanAI](https://github.com/PakistanAI) | Artificial intelligence, Machine learning |  [🌍](https://github.com/PakistanAI) | 
+| Open Source Foundation Pakistan | [@osfp-Pakistan](https://github.com/osfp-Pakistan) | Python, Java, JavaScript, Go, C# |  [🌍](https://osfp.org.pk) | 
+
+### Seminars
 
 | Name | Github Profile | Technologies | Web |
 | --- | --- | --- | --- |
