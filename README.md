@@ -59,9 +59,9 @@
 
 ### Seminars
 
-| Name | Github Profile | Technologies | Web |
-| --- | --- | --- | --- |
-| Code Movement Pakistan | [@]() | Tutorials |  [🌍](https://codemovement.pk/) | 
+| Name | Technologies | Web |
+| --- | --- | --- |
+| Code Movement Pakistan | Tutorials |  [🌍](https://codemovement.pk/) | 
 
 
 
