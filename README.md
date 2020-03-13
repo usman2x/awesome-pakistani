@@ -43,6 +43,7 @@
 | Wajahat Karim | [@wajahatkarim3](https://github.com/wajahatkarim3) | Java, Kotlin, Android |  [🌍](https://wajahatkarim.com) | 
 | Rana Jahanzaib | [@Jahanzaibv2](https://github.com/Jahanzaibv2) | JavaScript |  [🌍](https://ranajahanzaib.com) | 
 | Hamza Anis | [@HamzaAnis](https://github.com/HamzaAnis) | C, Go, Python, TypeScript |  [🌍](https://hamzaanis.github.io/) | 
+| Noman Shoukat | [@NomanGul](https://github.com/nomanaadma) | PHP, JavaScript, CloudNative and DevOps Engineer | [🌍](https://dev.to/nomanaadma) | 
 | Asad Memon | [@asadm](https://github.com/asadm) | JavaScript, C# |  [🌍](https://asadmemon.com/) | 
 | Zayn-ul-Abdin | [@zaynkorai](https://github.com/zaynkorai) | Go, Python, Nodejs, Rust, JavaScript |  [🌍](https://github.com/zaynkorai) | 
 | Saqib Ameen | [@saqibameen](https://github.com/saqibameen) | JavaScript, Python, Java |  [🌍](https://saqibameen.com/) | 
