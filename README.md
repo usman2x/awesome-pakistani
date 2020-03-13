@@ -2,11 +2,10 @@
 
 > Curated list of Pakistani software organizations and indidual developers contributing in open source.
 
-## Contents
-
 - [Individuals](#Individuals)
 - [Companies](#Companies)
 - [Seminars](#Seminars)
+
 
 ### Individuals
 
@@ -15,7 +14,7 @@
 | Sarfraz Ahmed | [@sarfraznawaz2005](https://github.com/sarfraznawaz2005) | PHP, JavaScript |  [🌍](https://codeinphp.github.io) | 
 | Zeeshan Ahmad | [@ziishaned](https://github.com/ziishaned) | PHP, JavaScript |  [🌍](https://twitter.com/ziishaned) | 
 | Muaz Khan | [@muaz-khan](https://github.com/muaz-khan) | JavaScript |  [🌍](https://muazkhan.com) | 
-| Ahmad Awais | [@ahmadawais](https://github.com/ahmadawais) | JavaScript |  [🌍](https://AhmadAwais.com) | 
+| Ahmad Awais | [@ahmadawais](https://github.com/ahmadawais) | JavaScript, Node.js, PHP |  [🌍](https://AhmadAwais.com) | 
 | Emad Ehsan | [@emadehsan](https://github.com/emadehsan) | JavaScript, Python |  [🌍](https://traverous.com/@emad) | 
 | Kamran Ahmed | [@kamranahmedse](https://github.com/kamranahmedse) | JavaScript |  [🌍](http://twitter.com/kamranahmedse) | 
 | Moin Uddin | [@moinism](https://github.com/moinism) | JavaScript |  [🌍](https://moin.im) | 
@@ -27,7 +26,7 @@
 | Arslan Hassan | [@arslancb](https://github.com/arslancb) | JavaScript, PHP |  [🌍](http://clip-bucket.com/) | 
 | Wahib-Ul-Haq | [@wahibhaq](https://github.com/wahibhaq) | Java, Kotlin |  [🌍](http://wahibhaq.com) | 
 | Muhammad Haseeb | [@iam-mhaseeb](https://github.com/iam-mhaseeb) | Python |  [🌍](https://github.com/iam-mhaseeb) | 
-| Maedah Batool | [@MaedahBatool](https://github.com/MaedahBatool) | PHP, JavaScript |  [🌍](https://maedahbatool.com) | 
+| Maedah Batool | [@MaedahBatool](https://github.com/MaedahBatool) | JavaScript, Node.js, PHP |  [🌍](https://maedahbatool.com) | 
 | Waleed Ashraf | [@WaleedAshraf](https://github.com/WaleedAshraf) | JavaScript |  [🌍](https://waleedashraf.me) | 
 | Amin Shah Gilani | [@amingilani](https://github.com/amingilani) | JavaScript, Ruby |  [🌍](http://amin.gilani.me) | 
 | Wajahat Karim | [@wajahatkarim3](https://github.com/wajahatkarim3) | Java, Kotlin, Android |  [🌍](https://wajahatkarim.com) | 
