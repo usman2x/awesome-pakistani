@@ -37,7 +37,7 @@
 | Arslan Hassan | [@arslancb](https://github.com/arslancb) | JavaScript, PHP |  [🌍](http://clip-bucket.com/) | 
 | Wahib-Ul-Haq | [@wahibhaq](https://github.com/wahibhaq) | Java, Kotlin |  [🌍](http://wahibhaq.com) | 
 | Muhammad Haseeb | [@iam-mhaseeb](https://github.com/iam-mhaseeb) | Python |  [🌍](https://github.com/iam-mhaseeb) | 
-| Madiha Batool | [@MaedahBatool](https://github.com/MaedahBatool) | PHP, JavaScript |  [🌍](https://maedahbatool.com) | 
+| Maedah Batool | [@MaedahBatool](https://github.com/MaedahBatool) | PHP, JavaScript |  [🌍](https://maedahbatool.com) | 
 | Waleed Ashraf | [@WaleedAshraf](https://github.com/WaleedAshraf) | JavaScript |  [🌍](https://waleedashraf.me) | 
 | Amin Shah Gilani | [@amingilani](https://github.com/amingilani) | JavaScript, Ruby |  [🌍](http://amin.gilani.me) | 
 | Wajahat Karim | [@wajahatkarim3](https://github.com/wajahatkarim3) | Java, Kotlin, Android |  [🌍](https://wajahatkarim.com) | 
