@@ -68,4 +68,4 @@
 
 
 ## Contribution
-Please do not update `Readme.md` file, it is auto generated, Add your entry in `data.json` file and create PR with nice description.
+Please do not update `Readme.md` file, it is auto generated, Add your entry in [Json](https://github.com/hafizusman530/awesome-pakistani/blob/master/awesome-data.json) file and create PR with nice description.
