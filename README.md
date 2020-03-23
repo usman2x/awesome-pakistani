@@ -57,6 +57,7 @@
 | Muhammad Hasham | [@MohammadHasham](https://github.com/MohammadHasham) | JavaScript |  [🌍](https://muhammadhasham.com) | 
 | Badar Khan | [@badarshahzad](https://github.com/badarshahzad) | JavaScript, Java |  [🌍](https://twitter.com/badarshahzad54) | 
 | Raees Iqbal | [@RaeesBhatti](https://github.com/RaeesBhatti) | JavaScript, C#, Go |  [🌍](https://raeesbhatti.com) | 
+| Sadam Hussain Memon | [@Sadam1195](https://github.com/Sadam1195) | Python, Computer Vision, Audio Processing, NLU/NLP, Speech-to-Text, Text-to-Speech |  [🌍](https://www.linkedin.com/in/sadam1195/) | 
 
 
 <h3><a name="Seminars"></a>Seminars</h3>
