@@ -399,6 +399,16 @@
                         "C#",
                         "Go"
                     ]
+                },
+                {
+                    "name": "Amin Shoukat",
+                    "github_link": "https://github.com/aminshoukat/",
+                    "github_user": "AminShoukat",
+                    "web": "https://dev.to/aminshoukat",
+                    "technologies": [
+                        "PHP",
+                        "JavaScript"
+                    ]
                 }
             ]
         },
