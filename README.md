@@ -49,6 +49,7 @@
 | Raees Iqbal | [@RaeesBhatti](https://github.com/RaeesBhatti) | JavaScript, C#, Go |  [🌍](https://raeesbhatti.com) | 
 | Syed Owais Ali Chishti | [@soachishti](https://github.com/soachishti) | Python, TypeScript, C++ |  [🌍](https://soachishti.com) | 
 | Noman Shoukat | [@NomanAadma](https://github.com/nomanaadma) | PHP, JavaScript, CloudNative, DevOps |  [🌍](https://dev.to/nomanaadma) | 
+| Amin Shoukat | [@AminShoukat](https://github.com/aminshoukat/) | PHP, JavaScript |  [🌍](https://dev.to/aminshoukat) | 
 
 
 <h3><a name="Organizations"></a>Organizations</h3>
@@ -70,4 +71,4 @@
 
 
 ## Contribution
-Please do not update `Readme.md` file, it is auto generated, Add your entry in `data.json` file and create PR with nice description.
+Please do not update `Readme.md` file, it is auto generated, Add your entry in [Json](https://github.com/hafizusman530/awesome-pakistani/blob/master/awesome-data.json) file and create PR with nice description.
