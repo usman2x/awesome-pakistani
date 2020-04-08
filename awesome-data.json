@@ -360,6 +360,18 @@
                         "TypeScript",
                         "C++"
                     ]
+                },
+                {
+                    "name": "Noman Shoukat",
+                    "github_link": "https://github.com/nomanaadma",
+                    "github_user": "NomanAadma",
+                    "web": "https://dev.to/nomanaadma",
+                    "technologies": [
+                        "PHP",
+                        "JavaScript",
+                        "CloudNative",
+                        "DevOps"
+                    ]
                 }
             ]
         },
