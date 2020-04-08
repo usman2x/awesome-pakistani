@@ -1,56 +1,6 @@
 {
     "awesome": [
         {
-            "type": "Organizations",
-            "profiles": [
-                {
-                    "name": "Arbisoft",
-                    "github_link": "https://github.com/arbisoft",
-                    "github_user": "arbisoft",
-                    "web": "https://arbisoft.com",
-                    "technologies": [
-                        "Python",
-                        "JavaScript",
-                        "Machine Learning"
-                    ]
-                },
-                {
-                    "name": "Code for Pakistan",
-                    "github_link": "https://github.com/codeforpakistan",
-                    "github_user": "codeforpakistan",
-                    "web": "http://codeforpakistan.org",
-                    "technologies": [
-                        "PHP",
-                        "JavaScript",
-                        "Java"
-                    ]
-                },
-                {
-                    "name": "PakistanAI",
-                    "github_link": "https://github.com/PakistanAI",
-                    "github_user": "PakistanAI",
-                    "web": "https://github.com/PakistanAI",
-                    "technologies": [
-                        "Artificial intelligence",
-                        "Machine learning"
-                    ]
-                },
-                {
-                    "name": "Open Source Foundation Pakistan",
-                    "github_link": "https://github.com/osfp-Pakistan",
-                    "github_user": "osfp-Pakistan",
-                    "web": "https://osfp.org.pk",
-                    "technologies": [
-                        "Python",
-                        "Java",
-                        "JavaScript",
-                        "Go",
-                        "C#"
-                    ]
-                }
-            ]
-        },
-        {
             "type": "Individuals",
             "profiles": [
                 {
@@ -152,7 +102,7 @@
                 {
                     "name": "Naveed Ahmad",
                     "github_link": "https://github.com/naveed-ahmad",
-                    "github_user": "naveed-ahmad",  
+                    "github_user": "naveed-ahmad",
                     "web": "https://github.com/naveed-ahmad",
                     "technologies": [
                         "Ruby",
@@ -398,6 +348,56 @@
                         "JavaScript",
                         "C#",
                         "Go"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Organizations",
+            "profiles": [
+                {
+                    "name": "Arbisoft",
+                    "github_link": "https://github.com/arbisoft",
+                    "github_user": "arbisoft",
+                    "web": "https://arbisoft.com",
+                    "technologies": [
+                        "Python",
+                        "JavaScript",
+                        "Machine Learning"
+                    ]
+                },
+                {
+                    "name": "Code for Pakistan",
+                    "github_link": "https://github.com/codeforpakistan",
+                    "github_user": "codeforpakistan",
+                    "web": "http://codeforpakistan.org",
+                    "technologies": [
+                        "PHP",
+                        "JavaScript",
+                        "Java"
+                    ]
+                },
+                {
+                    "name": "PakistanAI",
+                    "github_link": "https://github.com/PakistanAI",
+                    "github_user": "PakistanAI",
+                    "web": "https://github.com/PakistanAI",
+                    "technologies": [
+                        "Artificial intelligence",
+                        "Machine learning"
+                    ]
+                },
+                {
+                    "name": "Open Source Foundation Pakistan",
+                    "github_link": "https://github.com/osfp-Pakistan",
+                    "github_user": "osfp-Pakistan",
+                    "web": "https://osfp.org.pk",
+                    "technologies": [
+                        "Python",
+                        "Java",
+                        "JavaScript",
+                        "Go",
+                        "C#"
                     ]
                 }
             ]

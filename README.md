@@ -2,20 +2,10 @@
 > Curated list of Pakistani software organizations and indidual developers contributing in open source.
 
 ## Contents
- - [Organizations](#Organizations)
  - [Individuals](#Individuals)
+ - [Organizations](#Organizations)
  - [Seminars](#Seminars)
 
-
-
-<h3><a name="Organizations"></a>Organizations</h3>
-
-| Name | Github Profile | Technologies | Web |
-| --- | --- | --- | --- |
-| Arbisoft | [@arbisoft](https://github.com/arbisoft) | Python, JavaScript, Machine Learning |  [🌍](https://arbisoft.com) | 
-| Code for Pakistan | [@codeforpakistan](https://github.com/codeforpakistan) | PHP, JavaScript, Java |  [🌍](http://codeforpakistan.org) | 
-| PakistanAI | [@PakistanAI](https://github.com/PakistanAI) | Artificial intelligence, Machine learning |  [🌍](https://github.com/PakistanAI) | 
-| Open Source Foundation Pakistan | [@osfp-Pakistan](https://github.com/osfp-Pakistan) | Python, Java, JavaScript, Go, C# |  [🌍](https://osfp.org.pk) | 
 
 
 <h3><a name="Individuals"></a>Individuals</h3>
@@ -59,6 +49,16 @@
 | Raees Iqbal | [@RaeesBhatti](https://github.com/RaeesBhatti) | JavaScript, C#, Go |  [🌍](https://raeesbhatti.com) | 
 
 
+<h3><a name="Organizations"></a>Organizations</h3>
+
+| Name | Github Profile | Technologies | Web |
+| --- | --- | --- | --- |
+| Arbisoft | [@arbisoft](https://github.com/arbisoft) | Python, JavaScript, Machine Learning |  [🌍](https://arbisoft.com) | 
+| Code for Pakistan | [@codeforpakistan](https://github.com/codeforpakistan) | PHP, JavaScript, Java |  [🌍](http://codeforpakistan.org) | 
+| PakistanAI | [@PakistanAI](https://github.com/PakistanAI) | Artificial intelligence, Machine learning |  [🌍](https://github.com/PakistanAI) | 
+| Open Source Foundation Pakistan | [@osfp-Pakistan](https://github.com/osfp-Pakistan) | Python, Java, JavaScript, Go, C# |  [🌍](https://osfp.org.pk) | 
+
+
 <h3><a name="Seminars"></a>Seminars</h3>
 
 | Name | Github Profile | Technologies | Web |
@@ -68,4 +68,4 @@
 
 
 ## Contribution
-Please do not update `Readme.md` file, it is auto generated, Add your entry in [Json](https://github.com/hafizusman530/awesome-pakistani/blob/master/awesome-data.json) file and create PR with nice description.
+Please do not update `Readme.md` file, it is auto generated, Add your entry in `data.json` file and create PR with nice description.
