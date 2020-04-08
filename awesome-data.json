@@ -349,6 +349,17 @@
                         "C#",
                         "Go"
                     ]
+                },
+                {
+                    "name": "Syed Owais Ali Chishti",
+                    "github_link": "https://github.com/soachishti",
+                    "github_user": "soachishti",
+                    "web": "https://soachishti.com",
+                    "technologies": [
+                        "Python",
+                        "TypeScript",
+                        "C++"
+                    ]
                 }
             ]
         },
