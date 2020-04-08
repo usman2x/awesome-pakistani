@@ -47,6 +47,7 @@
 | Muhammad Hasham | [@MohammadHasham](https://github.com/MohammadHasham) | JavaScript |  [🌍](https://muhammadhasham.com) | 
 | Badar Khan | [@badarshahzad](https://github.com/badarshahzad) | JavaScript, Java |  [🌍](https://twitter.com/badarshahzad54) | 
 | Raees Iqbal | [@RaeesBhatti](https://github.com/RaeesBhatti) | JavaScript, C#, Go |  [🌍](https://raeesbhatti.com) | 
+| Syed Owais Ali Chishti | [@soachishti](https://github.com/soachishti) | Python, TypeScript, C++ |  [🌍](https://soachishti.com) | 
 
 
 <h3><a name="Organizations"></a>Organizations</h3>
