@@ -48,6 +48,7 @@
 | Badar Khan | [@badarshahzad](https://github.com/badarshahzad) | JavaScript, Java |  [🌍](https://twitter.com/badarshahzad54) | 
 | Raees Iqbal | [@RaeesBhatti](https://github.com/RaeesBhatti) | JavaScript, C#, Go |  [🌍](https://raeesbhatti.com) | 
 | Syed Owais Ali Chishti | [@soachishti](https://github.com/soachishti) | Python, TypeScript, C++ |  [🌍](https://soachishti.com) | 
+| Noman Shoukat | [@NomanAadma](https://github.com/nomanaadma) | PHP, JavaScript, CloudNative, DevOps |  [🌍](https://dev.to/nomanaadma) | 
 
 
 <h3><a name="Organizations"></a>Organizations</h3>
