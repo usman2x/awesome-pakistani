@@ -382,6 +382,21 @@
                         "PHP",
                         "JavaScript"
                     ]
+                },
+                {
+                    "name": "Sadam Hussain Memon",
+                    "github_link": "https://github.com/Sadam1195/",
+                    "github_user": "Sadam1195",
+                    "web": "https://www.linkedin.com/in/sadam1195/",
+                    "technologies": [
+                        "Python",
+                        "AI/ML",
+                        "NLU/NLP",
+                        "Computer Vision", 
+                        "Speech/Audio/Signal Processing",
+                        "Text-to-Speech",
+                        "Speech-to-Text"
+                    ]
                 }
             ]
         },
