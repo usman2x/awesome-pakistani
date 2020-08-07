@@ -397,6 +397,19 @@
                         "Text-to-Speech",
                         "Speech-to-Text"
                     ]
+                },
+                {
+                    "name": "Numan",
+                    "github_link": "https://github.com/nomi9995",
+                    "github_user": "Nomi9995",
+                    "web": "https://numan.dev",
+                    "technologies": [
+                        "React Native",
+                        "Expo",
+                        "React Js",
+                        "Node Js",
+                        "JavaScript"
+                    ]
                 }
             ]
         },
