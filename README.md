@@ -51,6 +51,7 @@
 | Noman Shoukat | [@NomanAadma](https://github.com/nomanaadma) | PHP, JavaScript, CloudNative, DevOps |  [🌍](https://dev.to/nomanaadma) | 
 | Amin Shoukat | [@AminShoukat](https://github.com/aminshoukat/) | PHP, JavaScript |  [🌍](https://dev.to/aminshoukat) | 
 | Sadam Hussain Memon | [@Sadam1195](https://github.com/Sadam1195/) | Python, AI/ML, NLU/NLP, Computer Vision, Speech/Audio/Signal Processing, Text-to-Speech, Speech-to-Text |  [🌍](https://www.linkedin.com/in/sadam1195/) | 
+| Numan | [@Nomi9995](https://github.com/nomi9995) | React Native, Expo, React Js, Node Js, JavaScript |  [🌍](https://numan.dev) | 
 
 
 <h3><a name="Organizations"></a>Organizations</h3>
