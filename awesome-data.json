@@ -410,6 +410,19 @@
                         "Node Js",
                         "JavaScript"
                     ]
+                },
+                {
+                    "name": "Abdul Rauf",
+                    "github_link": "https://github.com/armujahid",
+                    "github_user": "armujahid",
+                    "web": "https://armujahid.me",
+                    "technologies": [
+                        "C",
+                        "Go",
+                        "Python",
+                        "TypeScript",
+                        "JavaScript"
+                    ]
                 }
             ]
         },
