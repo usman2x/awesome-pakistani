@@ -31,7 +31,7 @@
 | Waleed Ashraf | [@WaleedAshraf](https://github.com/WaleedAshraf) | JavaScript |  [🌍](https://waleedashraf.me) | 
 | Amin Shah Gilani | [@amingilani](https://github.com/amingilani) | JavaScript, Ruby |  [🌍](http://amin.gilani.me) | 
 | Wajahat Karim | [@wajahatkarim3](https://github.com/wajahatkarim3) | Java, Kotlin, Android |  [🌍](https://wajahatkarim.com) | 
-| Rana Jahanzaib | [@Jahanzaibv2](https://github.com/Jahanzaibv2) | JavaScript |  [🌍](https://ranajahanzaib.com) | 
+| Rana Jahanzaib | [@ranajahanzaib](https://github.com/ranajahanzaib) | JavaScript |  [🌍](https://ranajahanzaib.com) | 
 | Hamza Anis | [@HamzaAnis](https://github.com/HamzaAnis) | C, Go, Python, TypeScript |  [🌍](https://hamzaanis.github.io/) | 
 | Asad Memon | [@asadm](https://github.com/asadm) | JavaScript, C# |  [🌍](https://asadmemon.com/) | 
 | Zayn-ul-Abdin | [@zaynkorai](https://github.com/zaynkorai) | Go, Python, Nodejs, Rust, JavaScript |  [🌍](https://github.com/zaynkorai) | 
@@ -52,6 +52,7 @@
 | Amin Shoukat | [@AminShoukat](https://github.com/aminshoukat/) | PHP, JavaScript |  [🌍](https://dev.to/aminshoukat) | 
 | Sadam Hussain Memon | [@Sadam1195](https://github.com/Sadam1195/) | Python, AI/ML, NLU/NLP, Computer Vision, Speech/Audio/Signal Processing, Text-to-Speech, Speech-to-Text |  [🌍](https://www.linkedin.com/in/sadam1195/) | 
 | Numan | [@Nomi9995](https://github.com/nomi9995) | React Native, Expo, React Js, Node Js, JavaScript |  [🌍](https://numan.dev) | 
+| Abdul Rauf | [@armujahid](https://github.com/armujahid) | C, Go, Python, TypeScript, JavaScript |  [🌍](https://armujahid.me) | 
 
 
 <h3><a name="Organizations"></a>Organizations</h3>
