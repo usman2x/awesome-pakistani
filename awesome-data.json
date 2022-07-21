@@ -423,6 +423,19 @@
                         "TypeScript",
                         "JavaScript"
                     ]
+                },
+                {
+                    "name": "Faisal Jan",
+                    "github_link": "https://github.com/faisaljanbaloch/",
+                    "github_user": "faisaljanbaloch",
+                    "web": "https://twitter.com/justfaisaljan",
+                    "technologies": [
+                        "JavaScript",
+                        "TypeScript",
+                        "React Js",
+                        "TailwindCSS",
+                        "Python"
+                    ]
                 }
             ]
         },
