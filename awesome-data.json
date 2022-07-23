@@ -425,6 +425,7 @@
                     ]
                 },
                 {
+<<<<<<< HEAD
                     "name": "Faisal Jan",
                     "github_link": "https://github.com/faisaljanbaloch/",
                     "github_user": "faisaljanbaloch",
@@ -437,6 +438,24 @@
                         "Python"
                     ]
                 }
+=======
+                    "name": "Mehfooz-ur-Rehman",
+                    "github_link": "https://github.com/mehfoozurrehman",
+                    "github_user": "mehfoozurrehman",
+                    "web": "https://mehfooz-ur-rehman.web.app/",
+                    "technologies": [
+                      "JavaScript",
+                      "React Native",
+                      "Expo",
+                      "React Js",
+                      "Express Js",
+                      "MongoDB",
+                      "Firebase",
+                      "Sass",
+                      "Postman"
+                    ]
+                  }
+>>>>>>> 817accfd3864adcb193a95b19e88e3ec2b1751e6
             ]
         },
         {
