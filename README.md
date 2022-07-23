@@ -53,6 +53,7 @@
 | Sadam Hussain Memon | [@Sadam1195](https://github.com/Sadam1195/) | Python, AI/ML, NLU/NLP, Computer Vision, Speech/Audio/Signal Processing, Text-to-Speech, Speech-to-Text |  [🌍](https://www.linkedin.com/in/sadam1195/) | 
 | Numan | [@Nomi9995](https://github.com/nomi9995) | React Native, Expo, React Js, Node Js, JavaScript |  [🌍](https://numan.dev) | 
 | Abdul Rauf | [@armujahid](https://github.com/armujahid) | C, Go, Python, TypeScript, JavaScript |  [🌍](https://armujahid.me) | 
+| Faisal Jan | [@faisaljanbaloch](https://github.com/faisaljanbaloch/) | JavaScript, TypeScript, React Js, TailwindCSS, Python |  [🌍](https://twitter.com/justfaisaljan) | 
 
 
 <h3><a name="Organizations"></a>Organizations</h3>
