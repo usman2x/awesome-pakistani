@@ -453,6 +453,18 @@
                         "Sass",
                         "Postman"
                     ]
+                },
+                {
+                    "name": "Shoaib Jamal",
+                    "github_link": "https://github.com/shoaib-jamal",
+                    "github_user": "shoaib-jamal",
+                    "web": "https://shoaib.tk",
+                    "technologies": [
+                        "Python",
+                        "C++",
+                        "TypeScript",
+                        "PHP"
+                    ]
                 }
             ]
         },
