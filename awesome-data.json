@@ -24,18 +24,6 @@
                     ]
                 },
                 {
-                    "name": "Shoaib Jamal",
-                    "github_link": "https://github.com/shoaib-jamal",
-                    "github_user": "shoaib-jamal",
-                    "web": "https://shoaib.tk",
-                    "technologies": [
-                        "Python",
-                        "C++",
-                        "TypeScript",
-                        "PHP"
-                    ]
-                },
-                {
                     "name": "Muaz Khan",
                     "github_link": "https://github.com/muaz-khan",
                     "github_user": "muaz-khan",
@@ -464,6 +452,18 @@
                         "Firebase",
                         "Sass",
                         "Postman"
+                    ]
+                },
+                {
+                    "name": "Shoaib Jamal",
+                    "github_link": "https://github.com/shoaib-jamal",
+                    "github_user": "shoaib-jamal",
+                    "web": "https://shoaib.tk",
+                    "technologies": [
+                        "Python",
+                        "C++",
+                        "TypeScript",
+                        "PHP"
                     ]
                 }
             ]
