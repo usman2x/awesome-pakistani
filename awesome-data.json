@@ -465,6 +465,15 @@
                         "TypeScript",
                         "PHP"
                     ]
+                },
+                {
+                    "name": "Muhammad Shahzaib",
+                    "github_link": "https://github.com/shahzaib1999",
+                    "github_user": "Muhammad Shahzaib",
+                    "web": "https://twitter.com/mohdshahzaib24",
+                    "technologies": [
+                        "JavaScript"
+                    ]
                 }
             ]
         },
