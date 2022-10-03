@@ -56,6 +56,7 @@
 | Faisal Jan | [@faisaljanbaloch](https://github.com/faisaljanbaloch/) | JavaScript, TypeScript, React Js, TailwindCSS, Python |  [🌍](https://twitter.com/justfaisaljan) | 
 | Mehfooz-ur-Rehman | [@mehfoozurrehman](https://github.com/mehfoozurrehman) | JavaScript, React Native, Expo, React Js, Express Js, MongoDB, Firebase, Sass, Postman |  [🌍](https://mehfooz-ur-rehman.web.app/) | 
 | Shoaib Jamal | [@shoaib-jamal](https://github.com/shoaib-jamal) | Python, C++, TypeScript, PHP |  [🌍](https://shoaib.tk) | 
+| Muhammad Shahzaib | [@Muhammad Shahzaib](https://github.com/shahzaib1999) | JavaScript |  [🌍](https://twitter.com/mohdshahzaib24) | 
 
 
 <h3><a name="Organizations"></a>Organizations</h3>
