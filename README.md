@@ -65,6 +65,7 @@
 | --- | --- | --- | --- |
 | Arbisoft | [@arbisoft](https://github.com/arbisoft) | Python, JavaScript, Machine Learning |  [🌍](https://arbisoft.com) | 
 | Code for Pakistan | [@codeforpakistan](https://github.com/codeforpakistan) | PHP, JavaScript, Java |  [🌍](http://codeforpakistan.org) | 
+| Grayhat | [@arbisoft](https://github.com/grayhatdevelopers) | JavaScript, Python, Artificial Intelligence |  [🌍](https://grayhat.com.pk) | 
 | PakistanAI | [@PakistanAI](https://github.com/PakistanAI) | Artificial intelligence, Machine learning |  [🌍](https://github.com/PakistanAI) | 
 | Open Source Foundation Pakistan | [@osfp-Pakistan](https://github.com/osfp-Pakistan) | Python, Java, JavaScript, Go, C# |  [🌍](https://osfp.org.pk) | 
 
