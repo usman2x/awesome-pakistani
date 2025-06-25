@@ -3,6 +3,18 @@
         {
             "type": "Individuals",
             "profiles": [
+                 {
+                    "name": "Muhammad Owais Mushtaq",
+                    "github_link": "https://github.com/muhammadowaismushtaq/",
+                    "github_user": "muhammadowaismushtaq",
+                    "web": "https://muhammadowaismushtaq.github.io/",
+                   "technologies": [
+                        "Spring Boot (Java)",
+                        "Angular (TypeScript)",
+                        "DevOps (Infrastructure automation, CI/CD, environment management)",
+                        "Jasper Studio (Dynamic enterprise reporting)"
+                      ]
+                },
                 {
                     "name": "Sarfraz Ahmed",
                     "github_link": "https://github.com/sarfraznawaz2005",
