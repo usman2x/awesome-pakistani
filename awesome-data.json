@@ -4,6 +4,27 @@
             "type": "Individuals",
             "profiles": [
                 {
+                    "name": "Masab Qurban",
+                    "github_link": "https://github.com/masabqurban",
+                    "github_user": "masabqurban",
+                    "web": "https://www.masabqurban.com/",
+                    "technologies": [
+                        "React.js",
+                        "Next.js",
+                        "Node.js",
+                        "Express.js",
+                        "Laravel",
+                        "JavaScript",
+                        "TypeScript",
+                        "Python",
+                        "PostgreSQL",
+                        "MySQL",
+                        "MongoDB",
+                        "Prisma",
+                        "Tailwind CSS",
+                    ]
+                },
+                {
                     "name": "Sarfraz Ahmed",
                     "github_link": "https://github.com/sarfraznawaz2005",
                     "github_user": "sarfraznawaz2005",
