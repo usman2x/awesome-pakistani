@@ -3,6 +3,24 @@
         {
             "type": "Individuals",
             "profiles": [
+
+                   {
+                    "name": "Shahjahan Samoon",
+                    "github_link": "https://github.com/Shahjahan786",
+                    "github_user": "Shahjahan786",
+                    "web": "https://github.com/Shahjahan786",
+                    "technologies": [
+                        "Java",
+                        "Kotlin",
+                        "C#",
+                        "Python",
+                        "PHP",
+                        "JavaScript",
+                        "Objective-C",
+                        "Swift"
+                    ]
+                },
+                
                 {
                     "name": "Sarfraz Ahmed",
                     "github_link": "https://github.com/sarfraznawaz2005",
