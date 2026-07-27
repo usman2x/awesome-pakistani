@@ -31,6 +31,10 @@ function isNonEmptyString(value) {
     return typeof value === 'string' && value.trim() !== '';
 }
 
+function withoutLineEndings(value) {
+    return value.replace(/\r\n/g, '\n');
+}
+
 function isValidUrl(value) {
     try {
         const url = new URL(value);
@@ -111,10 +115,12 @@ function reportDuplicates(profiles, field, description, report) {
     }
 }
 
+// Returns false when the file is too malformed to render, so the caller knows
+// the readme comparison cannot run.
 function validateData(data) {
     if (typeof data !== 'object' || data === null || !Array.isArray(data.awesome)) {
         error('awesome-data.json must contain an "awesome" array');
-        return;
+        return false;
     }
 
     const allProfiles = [];
@@ -149,6 +155,8 @@ function validateData(data) {
     reportDuplicates(allProfiles, 'github_link', 'github link', error);
     reportDuplicates(allProfiles, 'name', 'name', warn);
     reportDuplicates(allProfiles, 'web', 'website', warn);
+
+    return true;
 }
 
 // README.md is generated from awesome-data.json, so a checked in readme that
@@ -160,8 +168,18 @@ function validateReadmeIsUpToDate(data) {
     }
 
     const committed = fs.readFileSync(readmeFilePath, 'utf8');
+    let rendered;
 
-    if (committed !== renderReadme(data)) {
+    try {
+        rendered = renderReadme(data);
+    } catch (e) {
+        error(`README.md could not be rendered from awesome-data.json: ${e.message}`);
+        return;
+    }
+
+    // Compared without line endings, so a readme saved as LF instead of CRLF
+    // is not mistaken for one that was never regenerated.
+    if (withoutLineEndings(committed) !== withoutLineEndings(rendered)) {
         error('README.md is out of date with awesome-data.json, run `npm run build` and commit the result');
     }
 }
@@ -169,15 +187,17 @@ function validateReadmeIsUpToDate(data) {
 let data;
 
 try {
-    data = JSON.parse(fs.readFileSync(dataFilePath, 'utf8'));
+    // The byte order mark some editors add is stripped by require(), which the
+    // build script uses, so strip it here too and stay consistent with it.
+    data = JSON.parse(fs.readFileSync(dataFilePath, 'utf8').replace(/^\uFEFF/, ''));
 } catch (e) {
     console.error(`awesome-data.json is not valid json: ${e.message}`);
     process.exit(1);
 }
 
-validateData(data);
-
-if (errors.length === 0) {
+// The readme check does not need the profiles to be valid, so it runs even when
+// there are errors and contributors see everything that needs fixing at once.
+if (validateData(data)) {
     validateReadmeIsUpToDate(data);
 }
 
