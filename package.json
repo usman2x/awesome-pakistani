@@ -4,7 +4,9 @@
   "description": "List awesome Pakistanis",
   "main": "index.js",
   "scripts": {
-    "build": "node src/main.js"
+    "build": "node src/main.js",
+    "validate": "node src/validate.js",
+    "test": "node src/validate.js"
   },
   "keywords": [
     "awesome",
