@@ -79,3 +79,13 @@
 
 ## Contribution
 Please do not update `Readme.md` file, it is auto generated, Add your entry in [Json](https://github.com/hafizusman530/awesome-pakistani/blob/master/awesome-data.json) file and create PR with nice description.
+
+After editing the json file, regenerate the readme and check your entry:
+
+```bash
+npm install
+npm run build     # regenerates Readme.md from the json file
+npm run validate  # checks the json file and that Readme.md is up to date
+```
+
+Both are checked automatically on every pull request.
