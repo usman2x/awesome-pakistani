@@ -57,6 +57,7 @@
 | Mehfooz-ur-Rehman | [@mehfoozurrehman](https://github.com/mehfoozurrehman) | JavaScript, React Native, Expo, React Js, Express Js, MongoDB, Firebase, Sass, Postman |  [🌍](https://mehfooz-ur-rehman.web.app/) | 
 | Shoaib Jamal | [@shoaib-jamal](https://github.com/shoaib-jamal) | Python, C++, TypeScript, PHP |  [🌍](https://shoaib.tk) | 
 | Muhammad Shahzaib | [@Muhammad Shahzaib](https://github.com/shahzaib1999) | JavaScript |  [🌍](https://twitter.com/mohdshahzaib24) | 
+| Muawiya Amir | [@Muawiya-contact](https://github.com/Muawiya-contact) | Python, Artificial Intelligence, Machine Learning, Data Engineering, JavaScript, TypeScript, React, Docker |  [🌍](https://muawiya-contact.github.io/muawiya-portfolio/) | 
 
 
 <h3><a name="Organizations"></a>Organizations</h3>

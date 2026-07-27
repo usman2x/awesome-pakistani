@@ -474,6 +474,22 @@
                     "technologies": [
                         "JavaScript"
                     ]
+                },
+                {
+                    "name": "Muawiya Amir",
+                    "github_link": "https://github.com/Muawiya-contact",
+                    "github_user": "Muawiya-contact",
+                    "web": "https://muawiya-contact.github.io/muawiya-portfolio/",
+                    "technologies": [
+                        "Python",
+                        "Artificial Intelligence",
+                        "Machine Learning",
+                        "Data Engineering",
+                        "JavaScript",
+                        "TypeScript",
+                        "React",
+                        "Docker"
+                    ]
                 }
             ]
         },
