@@ -88,7 +88,10 @@ function validateProfile(profile, label) {
     }
 }
 
-function reportDuplicates(profiles, field, description) {
+// `report` is either error or warn: a repeated github user or link means the
+// same profile was added twice, but two developers can genuinely share a name,
+// and an employee may list the same site as the company they work for.
+function reportDuplicates(profiles, field, description, report) {
     const seen = new Map();
 
     for (const entry of profiles) {
@@ -101,7 +104,7 @@ function reportDuplicates(profiles, field, description) {
         const key = normalize(value);
 
         if (seen.has(key)) {
-            error(`duplicate ${description} "${value}" in ${seen.get(key)} and ${entry.label}`);
+            report(`duplicate ${description} "${value}" in ${seen.get(key)} and ${entry.label}`);
         } else {
             seen.set(key, entry.label);
         }
@@ -133,14 +136,19 @@ function validateData(data) {
             const label = `${section.type || sectionLabel}[${profileIndex}]${name}`;
 
             validateProfile(profile, label);
-            allProfiles.push({ profile, label });
+
+            // Only usable entries take part in the duplicate scan, anything
+            // else was already reported by validateProfile.
+            if (typeof profile === 'object' && profile !== null && !Array.isArray(profile)) {
+                allProfiles.push({ profile, label });
+            }
         });
     });
 
-    reportDuplicates(allProfiles, 'github_user', 'github user');
-    reportDuplicates(allProfiles, 'github_link', 'github link');
-    reportDuplicates(allProfiles, 'name', 'name');
-    reportDuplicates(allProfiles, 'web', 'website');
+    reportDuplicates(allProfiles, 'github_user', 'github user', error);
+    reportDuplicates(allProfiles, 'github_link', 'github link', error);
+    reportDuplicates(allProfiles, 'name', 'name', warn);
+    reportDuplicates(allProfiles, 'web', 'website', warn);
 }
 
 // README.md is generated from awesome-data.json, so a checked in readme that
