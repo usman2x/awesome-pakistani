@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this directory or dataset, please cite it using this metadata."
+type: dataset
+title: "Pakistani Open-Source Developers and Organizations"
+abstract: "A community-maintained directory of Pakistani open-source developers, GitHub contributors, software organizations, communities, and events."
+authors:
+  - family-names: "Usman"
+    given-names: "Muhammad"
+    alias: "usman2x"
+    website: "https://github.com/usman2x"
+repository-code: "https://github.com/usman2x/awesome-pakistani"
+url: "https://usman2x.github.io/awesome-pakistani/"
+license: MIT
+keywords:
+  - Pakistan
+  - open source
+  - software developers
+  - GitHub contributors
+  - software organizations
