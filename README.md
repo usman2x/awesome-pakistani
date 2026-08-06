@@ -56,7 +56,13 @@
 | Faisal Jan | [@faisaljanbaloch](https://github.com/faisaljanbaloch/) | JavaScript, TypeScript, React Js, TailwindCSS, Python |  [🌍](https://twitter.com/justfaisaljan) | 
 | Mehfooz-ur-Rehman | [@mehfoozurrehman](https://github.com/mehfoozurrehman) | JavaScript, React Native, Expo, React Js, Express Js, MongoDB, Firebase, Sass, Postman |  [🌍](https://mehfooz-ur-rehman.web.app/) | 
 | Shoaib Jamal | [@shoaib-jamal](https://github.com/shoaib-jamal) | Python, C++, TypeScript, PHP |  [🌍](https://shoaib.tk) | 
-| Muhammad Shahzaib | [@Muhammad Shahzaib](https://github.com/shahzaib1999) | JavaScript |  [🌍](https://twitter.com/mohdshahzaib24) | 
+| Muhammad Shahzaib | [@shahzaib1999](https://github.com/shahzaib1999) | JavaScript |  [🌍](https://twitter.com/mohdshahzaib24) | 
+| Saad Bazaz | [@SaadBazaz](https://github.com/SaadBazaz) | JavaScript, Python |  [🌍](https://twitter.com/saadahmedbazaz) | 
+| Yousaf Arbaz | [@arbaz93](https://github.com/arbaz93) | React.js, Next.js, JavaScript |  [🌍](https://yousafarbaz.netlify.app/) | 
+| Danish Saleem | [@mrdanishsaleem](https://github.com/mrdanishsaleem) | PHP, Laravel, JavaScript, React, Node.js, Express, MongoDB, WordPress |  [🌍](https://www.linkedin.com/in/mrdanishsaleem/) | 
+| Masab Qurban | [@masabqurban](https://github.com/masabqurban) | React.js, Next.js, Node.js, Express.js, Laravel, JavaScript, TypeScript, Python, PostgreSQL, MySQL, MongoDB, Prisma, Tailwind CSS |  [🌍](https://www.masabqurban.com/) | 
+| Shahjahan Samoon | [@Shahjahan786](https://github.com/Shahjahan786) | Java, Kotlin, C#, Python, PHP, JavaScript, Objective-C, Swift |  [🌍](https://github.com/Shahjahan786) | 
+| Muawiya Amir | [@Muawiya-contact](https://github.com/Muawiya-contact) | Python, Artificial Intelligence, Machine Learning, Data Engineering, JavaScript, TypeScript, React, Docker |  [🌍](https://muawiya-contact.github.io/muawiya-portfolio/) | 
 
 
 <h3><a name="Organizations"></a>Organizations</h3>
@@ -67,6 +73,8 @@
 | Code for Pakistan | [@codeforpakistan](https://github.com/codeforpakistan) | PHP, JavaScript, Java |  [🌍](http://codeforpakistan.org) | 
 | PakistanAI | [@PakistanAI](https://github.com/PakistanAI) | Artificial intelligence, Machine learning |  [🌍](https://github.com/PakistanAI) | 
 | Open Source Foundation Pakistan | [@osfp-Pakistan](https://github.com/osfp-Pakistan) | Python, Java, JavaScript, Go, C# |  [🌍](https://osfp.org.pk) | 
+| Grayhat | [@grayhatdevelopers](https://github.com/grayhatdevelopers) | JavaScript, Python, C# |  [🌍](https://grayhat.studio) | 
+| Sid Techno LLC | [@saadsinpk](https://github.com/saadsinpk) | JavaScript, TypeScript, React, Node.js, Docker |  [🌍](https://sidtechno.com) | 
 
 
 <h3><a name="Seminars"></a>Seminars</h3>
@@ -78,4 +86,10 @@
 
 
 ## Contribution
-Please do not update `Readme.md` file, it is auto generated, Add your entry in [Json](https://github.com/hafizusman530/awesome-pakistani/blob/master/awesome-data.json) file and create PR with nice description.
+Add or update an entry in [`awesome-data.json`](https://github.com/usman2x/awesome-pakistani/blob/master/awesome-data.json), then regenerate and validate the README before opening a pull request:
+
+```bash
+npm ci
+npm run build
+npm test
+```
