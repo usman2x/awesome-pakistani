@@ -1,0 +1,10 @@
+# Pakistani Open-Source Developers and Organizations
+
+A community-maintained directory of Pakistani open-source developers, GitHub contributors, software organizations, communities, and events.
+
+- Canonical directory: https://usman2x.github.io/awesome-pakistani/
+- Source repository: https://github.com/usman2x/awesome-pakistani
+- JSON dataset: https://usman2x.github.io/awesome-pakistani/data/awesome-pakistani.json
+- JSON Schema: https://usman2x.github.io/awesome-pakistani/awesome-data.schema.json
+- Citation metadata: https://github.com/usman2x/awesome-pakistani/blob/master/CITATION.cff
+- Last updated: 2026-08-06

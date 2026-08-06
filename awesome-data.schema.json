@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://usman2x.github.io/awesome-pakistani/awesome-data.schema.json",
+  "title": "Awesome Pakistan directory data",
+  "description": "Schema for the community-maintained directory of Pakistani open-source developers and organizations.",
+  "type": "object",
+  "required": ["$schema", "metadata", "awesome"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "metadata": {
+      "type": "object",
+      "required": ["title", "description", "canonical_url", "repository_url", "license", "last_updated"],
+      "additionalProperties": false,
+      "properties": {
+        "title": { "type": "string", "minLength": 1 },
+        "description": { "type": "string", "minLength": 50 },
+        "canonical_url": { "type": "string", "format": "uri", "pattern": "^https://" },
+        "repository_url": { "type": "string", "format": "uri", "pattern": "^https://github\\.com/" },
+        "license": { "type": "string", "minLength": 1 },
+        "last_updated": { "type": "string", "format": "date" }
+      }
+    },
+    "awesome": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/section" }
+    }
+  },
+  "$defs": {
+    "section": {
+      "type": "object",
+      "required": ["type", "profiles"],
+      "additionalProperties": false,
+      "properties": {
+        "type": { "type": "string", "minLength": 1 },
+        "profiles": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/profile" }
+        }
+      }
+    },
+    "profile": {
+      "type": "object",
+      "required": ["name", "github_link", "github_user", "web", "technologies"],
+      "additionalProperties": false,
+      "properties": {
+        "name": { "type": "string", "minLength": 1 },
+        "github_link": {
+          "type": "string",
+          "pattern": "^(|https://github\\.com/[^/]+/?)$"
+        },
+        "github_user": { "type": "string" },
+        "web": { "type": "string", "format": "uri", "pattern": "^https?://" },
+        "technologies": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": { "type": "string", "minLength": 1 }
+        }
+      }
+    }
+  }
+}

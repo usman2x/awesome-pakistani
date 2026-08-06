@@ -1,7 +1,16 @@
 {
+    "$schema": "./awesome-data.schema.json",
+    "metadata": {
+        "title": "Pakistani Open-Source Developers and Organizations",
+        "description": "A community-maintained directory of Pakistani open-source developers, GitHub contributors, software organizations, communities, and events.",
+        "canonical_url": "https://usman2x.github.io/awesome-pakistani/",
+        "repository_url": "https://github.com/usman2x/awesome-pakistani",
+        "license": "MIT",
+        "last_updated": "2026-08-06"
+    },
     "awesome": [
         {
-            "type": "Individuals",
+            "type": "Pakistani Open-Source Developers",
             "profiles": [
                 {
                     "name": "Sarfraz Ahmed",
@@ -568,7 +577,7 @@
             ]
         },
         {
-            "type": "Organizations",
+            "type": "Pakistani Open-Source Organizations",
             "profiles": [
                 {
                     "name": "Arbisoft",
@@ -642,7 +651,7 @@
             ]
         },
         {
-            "type": "Seminars",
+            "type": "Open-Source Communities and Events in Pakistan",
             "profiles": [
                 {
                     "name": "Code Movement Pakistan",

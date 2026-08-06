@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://usman2x.github.io/awesome-pakistani/sitemap.xml

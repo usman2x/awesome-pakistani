@@ -1,11 +1,14 @@
 'use strict';
 
 const fs = require('fs');
+const path = require('path');
 
 const renderReadme = require('./render');
+const { buildSiteFiles } = require('./site');
 
 const dataFilePath = `${__dirname}/../awesome-data.json`;
 const readmeFilePath = `${__dirname}/../README.md`;
+const docsDirectory = `${__dirname}/../docs`;
 const requiredFields = ['name', 'github_link', 'github_user', 'web', 'technologies'];
 const errors = [];
 
@@ -101,6 +104,24 @@ function validateData(data) {
         return;
     }
 
+    if (!data.metadata || typeof data.metadata !== 'object') {
+        addError('awesome-data.json', 'metadata must be an object');
+    } else {
+        for (const field of ['title', 'description', 'canonical_url', 'repository_url', 'license', 'last_updated']) {
+            if (!isNonEmptyString(data.metadata[field])) {
+                addError('awesome-data.json.metadata', `${field} must be a non-empty string`);
+            }
+        }
+
+        if (isNonEmptyString(data.metadata.canonical_url) && !data.metadata.canonical_url.startsWith('https://')) {
+            addError('awesome-data.json.metadata', 'canonical_url must use HTTPS');
+        }
+
+        if (isNonEmptyString(data.metadata.last_updated) && !/^\d{4}-\d{2}-\d{2}$/.test(data.metadata.last_updated)) {
+            addError('awesome-data.json.metadata', 'last_updated must use YYYY-MM-DD format');
+        }
+    }
+
     const sectionNames = new Set();
     const githubUsers = new Map();
     const githubLinks = new Map();
@@ -174,6 +195,49 @@ if (fs.existsSync(readmeFilePath)) {
     addError('README.md', 'missing; run "npm run build"');
 }
 
+let expectedSiteFiles;
+
+try {
+    expectedSiteFiles = buildSiteFiles(data);
+} catch (error) {
+    addError('docs', `could not generate the Pages directory: ${error.message}`);
+    expectedSiteFiles = new Map();
+}
+
+for (const [relativePath, expectedContent] of expectedSiteFiles) {
+    const generatedPath = path.join(docsDirectory, relativePath);
+
+    if (!fs.existsSync(generatedPath)) {
+        addError(`docs/${relativePath}`, 'missing; run "npm run build"');
+        continue;
+    }
+
+    const isBinary = Buffer.isBuffer(expectedContent);
+    const committedContent = fs.readFileSync(generatedPath, isBinary ? undefined : 'utf8');
+    const contentMatches = isBinary
+        ? committedContent.equals(expectedContent)
+        : committedContent.replace(/\r\n/g, '\n') === expectedContent.replace(/\r\n/g, '\n');
+
+    if (!contentMatches) {
+        addError(`docs/${relativePath}`, 'out of date; run "npm run build" and commit the result');
+    }
+}
+
+const profilesDirectory = path.join(docsDirectory, 'profiles');
+if (fs.existsSync(profilesDirectory)) {
+    for (const entry of fs.readdirSync(profilesDirectory, { withFileTypes: true })) {
+        const relativePath = `profiles/${entry.name}/index.html`;
+        if (entry.isDirectory() && !expectedSiteFiles.has(relativePath)) {
+            addError(`docs/profiles/${entry.name}`, 'stale generated profile; remove it and run "npm run build"');
+        }
+    }
+}
+
+const socialImagePath = path.join(docsDirectory, 'assets', 'og-v2.png');
+if (!fs.existsSync(socialImagePath) || fs.statSync(socialImagePath).size === 0) {
+    addError('docs/assets/og-v2.png', 'missing social preview image');
+}
+
 if (errors.length > 0) {
     errors.forEach((error) => console.error(`error: ${error}`));
     console.error(`\nValidation failed with ${errors.length} error(s).`);
@@ -181,4 +245,4 @@ if (errors.length > 0) {
 }
 
 const profileCount = data.awesome.reduce((total, section) => total + section.profiles.length, 0);
-console.log(`Validated ${profileCount} profiles and README.md is up to date.`);
+console.log(`Validated ${profileCount} profiles, README.md, and the GitHub Pages directory.`);

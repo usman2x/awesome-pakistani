@@ -1,20 +1,38 @@
 {
   "name": "awesome-pakistani",
   "version": "1.0.0",
-  "description": "List awesome Pakistanis",
-  "main": "index.js",
+  "description": "Community-maintained directory of Pakistani open-source developers and organizations",
+  "main": "src/main.js",
   "scripts": {
-    "build": "node src/main.js",
+    "build": "npm run build:readme && npm run build:site",
+    "build:readme": "node src/main.js",
+    "build:site": "node src/build-site.js",
     "validate": "node src/validate.js",
     "test": "npm run validate"
   },
   "keywords": [
     "awesome",
-    "pakistani"
+    "pakistani",
+    "pakistan",
+    "open-source",
+    "developers",
+    "github",
+    "directory"
   ],
+  "homepage": "https://usman2x.github.io/awesome-pakistani/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usman2x/awesome-pakistani.git"
+  },
+  "bugs": {
+    "url": "https://github.com/usman2x/awesome-pakistani/issues"
+  },
   "author": "Muhammad Usman",
   "license": "MIT",
   "dependencies": {
     "ejs": "^3.1.10"
+  },
+  "devDependencies": {
+    "simple-icons": "^16.28.0"
   }
 }
