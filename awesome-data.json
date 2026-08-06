@@ -469,10 +469,100 @@
                 {
                     "name": "Muhammad Shahzaib",
                     "github_link": "https://github.com/shahzaib1999",
-                    "github_user": "Muhammad Shahzaib",
+                    "github_user": "shahzaib1999",
                     "web": "https://twitter.com/mohdshahzaib24",
                     "technologies": [
                         "JavaScript"
+                    ]
+                },
+                {
+                    "name": "Saad Bazaz",
+                    "github_link": "https://github.com/SaadBazaz",
+                    "github_user": "SaadBazaz",
+                    "web": "https://twitter.com/saadahmedbazaz",
+                    "technologies": [
+                        "JavaScript",
+                        "Python"
+                    ]
+                },
+                {
+                    "name": "Yousaf Arbaz",
+                    "github_link": "https://github.com/arbaz93",
+                    "github_user": "arbaz93",
+                    "web": "https://yousafarbaz.netlify.app/",
+                    "technologies": [
+                        "React.js",
+                        "Next.js",
+                        "JavaScript"
+                    ]
+                },
+                {
+                    "name": "Danish Saleem",
+                    "github_link": "https://github.com/mrdanishsaleem",
+                    "github_user": "mrdanishsaleem",
+                    "web": "https://www.linkedin.com/in/mrdanishsaleem/",
+                    "technologies": [
+                        "PHP",
+                        "Laravel",
+                        "JavaScript",
+                        "React",
+                        "Node.js",
+                        "Express",
+                        "MongoDB",
+                        "WordPress"
+                    ]
+                },
+                {
+                    "name": "Masab Qurban",
+                    "github_link": "https://github.com/masabqurban",
+                    "github_user": "masabqurban",
+                    "web": "https://www.masabqurban.com/",
+                    "technologies": [
+                        "React.js",
+                        "Next.js",
+                        "Node.js",
+                        "Express.js",
+                        "Laravel",
+                        "JavaScript",
+                        "TypeScript",
+                        "Python",
+                        "PostgreSQL",
+                        "MySQL",
+                        "MongoDB",
+                        "Prisma",
+                        "Tailwind CSS"
+                    ]
+                },
+                {
+                    "name": "Shahjahan Samoon",
+                    "github_link": "https://github.com/Shahjahan786",
+                    "github_user": "Shahjahan786",
+                    "web": "https://github.com/Shahjahan786",
+                    "technologies": [
+                        "Java",
+                        "Kotlin",
+                        "C#",
+                        "Python",
+                        "PHP",
+                        "JavaScript",
+                        "Objective-C",
+                        "Swift"
+                    ]
+                },
+                {
+                    "name": "Muawiya Amir",
+                    "github_link": "https://github.com/Muawiya-contact",
+                    "github_user": "Muawiya-contact",
+                    "web": "https://muawiya-contact.github.io/muawiya-portfolio/",
+                    "technologies": [
+                        "Python",
+                        "Artificial Intelligence",
+                        "Machine Learning",
+                        "Data Engineering",
+                        "JavaScript",
+                        "TypeScript",
+                        "React",
+                        "Docker"
                     ]
                 }
             ]
@@ -523,6 +613,30 @@
                         "JavaScript",
                         "Go",
                         "C#"
+                    ]
+                },
+                {
+                    "name": "Grayhat",
+                    "github_link": "https://github.com/grayhatdevelopers",
+                    "github_user": "grayhatdevelopers",
+                    "web": "https://grayhat.studio",
+                    "technologies": [
+                        "JavaScript",
+                        "Python",
+                        "C#"
+                    ]
+                },
+                {
+                    "name": "Sid Techno LLC",
+                    "github_link": "https://github.com/saadsinpk",
+                    "github_user": "saadsinpk",
+                    "web": "https://sidtechno.com",
+                    "technologies": [
+                        "JavaScript",
+                        "TypeScript",
+                        "React",
+                        "Node.js",
+                        "Docker"
                     ]
                 }
             ]

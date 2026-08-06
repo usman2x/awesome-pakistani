@@ -15,4 +15,10 @@
 <% } %>
 
 ## Contribution
-Please do not update `Readme.md` file, it is auto generated, Add your entry in [Json](https://github.com/hafizusman530/awesome-pakistani/blob/master/awesome-data.json) file and create PR with nice description.
+Add or update an entry in [`awesome-data.json`](https://github.com/usman2x/awesome-pakistani/blob/master/awesome-data.json), then regenerate and validate the README before opening a pull request:
+
+```bash
+npm ci
+npm run build
+npm test
+```
