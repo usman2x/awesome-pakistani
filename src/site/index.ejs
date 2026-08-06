@@ -11,11 +11,11 @@
   <meta property="og:title" content="Pakistani Open-Source Developers and Organizations">
   <meta property="og:description" content="A community-maintained directory of Pakistan's open-source technology ecosystem.">
   <meta property="og:url" content="<%= metadata.canonical_url %>">
-  <meta property="og:image" content="<%= metadata.canonical_url %>assets/og.png">
+  <meta property="og:image" content="<%= metadata.canonical_url %>assets/og-v2.png">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Pakistani Open-Source Developers and Organizations">
   <meta name="twitter:description" content="Explore public profiles across Pakistan's open-source technology ecosystem.">
-  <meta name="twitter:image" content="<%= metadata.canonical_url %>assets/og.png">
+  <meta name="twitter:image" content="<%= metadata.canonical_url %>assets/og-v2.png">
   <link rel="stylesheet" href="assets/styles.css">
   <script type="application/ld+json"><%- jsonForHtml(jsonLd) %></script>
 </head>
@@ -25,19 +25,18 @@
       <span class="brand-mark" aria-hidden="true">PK</span>
       <span>Awesome Pakistan</span>
     </a>
-    <a class="header-link" href="<%= metadata.repository_url %>">View source on GitHub</a>
+    <nav class="site-nav" aria-label="Primary navigation">
+      <a class="contribute-link" href="<%= metadata.repository_url %>/blob/03dd22f25504e379623d60186aab7f641deebc1b/CONTRIBUTING.md">Add or correct an entry</a>
+      <a class="github-link" href="<%= metadata.repository_url %>"><%- githubIcon %><span>GitHub</span></a>
+    </nav>
   </header>
 
   <main>
     <section class="hero" aria-labelledby="page-title">
       <div class="hero-copy">
-        <p class="eyebrow">Community-maintained open-source directory</p>
-        <h1 id="page-title">The people and organizations building in public across Pakistan.</h1>
-        <p class="lede"><%= metadata.description %></p>
-        <div class="hero-actions">
-          <a class="button button-primary" href="#directory">Explore the directory</a>
-          <a class="button button-secondary" href="<%= metadata.repository_url %>/blob/master/CONTRIBUTING.md">Add or correct an entry</a>
-        </div>
+        <p class="eyebrow">Pakistan's open-source directory</p>
+        <h1 id="page-title">Discover Pakistan's open-source ecosystem.</h1>
+        <p class="lede">Search Pakistani developers, organizations, communities, and technologies.</p>
       </div>
       <dl class="stats" aria-label="Directory statistics">
         <div><dt><%= counts.total %></dt><dd>public profiles</dd></div>
@@ -45,18 +44,8 @@
         <div><dt><%= counts.organizations %></dt><dd>organizations</dd></div>
         <div><dt><%= counts.communities %></dt><dd>communities and events</dd></div>
       </dl>
-    </section>
 
-    <section class="directory" id="directory" aria-labelledby="directory-title">
-      <div class="section-heading">
-        <div>
-          <p class="eyebrow">Browse the ecosystem</p>
-          <h2 id="directory-title">Pakistani open-source directory</h2>
-        </div>
-        <p>Search names, GitHub handles, technologies, and categories.</p>
-      </div>
-
-      <div class="filters" role="search">
+      <div class="filters" role="search" aria-label="Search the directory">
         <label>
           <span>Search profiles</span>
           <input id="directory-search" type="search" placeholder="Try Python, React, AI, or a name" autocomplete="off">
@@ -70,6 +59,16 @@
             <% } %>
           </select>
         </label>
+      </div>
+    </section>
+
+    <section class="directory" id="directory" aria-labelledby="directory-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">58 public profiles</p>
+          <h2 id="directory-title">Browse the directory</h2>
+        </div>
+        <p>Search names, GitHub handles, technologies, and categories.</p>
       </div>
 
       <p class="results-summary" id="results-summary" aria-live="polite">Showing all <%= counts.total %> profiles.</p>
@@ -85,10 +84,10 @@
           <article class="profile-card" data-profile data-category="<%= slugify(section.type) %>" data-search="<%= [profile.name, profile.github_user, section.type, ...profile.technologies].join(' ').toLowerCase() %>">
             <div class="profile-card-heading">
               <h4><a href="profiles/<%= slug %>/"><%= profile.name %></a></h4>
-              <% if (profile.github_user) { %><a class="handle" href="<%= profile.github_link %>">@<%= profile.github_user %></a><% } %>
+              <% if (profile.github_user) { %><a class="handle" href="<%= profile.github_link %>"><%- githubIcon %>@<%= profile.github_user %></a><% } %>
             </div>
             <ul class="technology-list" aria-label="Technologies">
-              <% for (const technology of profile.technologies) { %><li><%= technology %></li><% } %>
+              <% for (const technology of profile.technologies) { %><li><%- technologyIcon(technology) %><span><%= technology %></span></li><% } %>
             </ul>
             <a class="profile-link" href="profiles/<%= slug %>/">View profile <span aria-hidden="true">→</span></a>
           </article>

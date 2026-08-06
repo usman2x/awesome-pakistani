@@ -212,10 +212,13 @@ for (const [relativePath, expectedContent] of expectedSiteFiles) {
         continue;
     }
 
-    const committedContent = fs.readFileSync(generatedPath, 'utf8').replace(/\r\n/g, '\n');
-    const normalizedExpected = expectedContent.replace(/\r\n/g, '\n');
+    const isBinary = Buffer.isBuffer(expectedContent);
+    const committedContent = fs.readFileSync(generatedPath, isBinary ? undefined : 'utf8');
+    const contentMatches = isBinary
+        ? committedContent.equals(expectedContent)
+        : committedContent.replace(/\r\n/g, '\n') === expectedContent.replace(/\r\n/g, '\n');
 
-    if (committedContent !== normalizedExpected) {
+    if (!contentMatches) {
         addError(`docs/${relativePath}`, 'out of date; run "npm run build" and commit the result');
     }
 }
@@ -230,9 +233,9 @@ if (fs.existsSync(profilesDirectory)) {
     }
 }
 
-const socialImagePath = path.join(docsDirectory, 'assets', 'og.png');
+const socialImagePath = path.join(docsDirectory, 'assets', 'og-v2.png');
 if (!fs.existsSync(socialImagePath) || fs.statSync(socialImagePath).size === 0) {
-    addError('docs/assets/og.png', 'missing social preview image');
+    addError('docs/assets/og-v2.png', 'missing social preview image');
 }
 
 if (errors.length > 0) {

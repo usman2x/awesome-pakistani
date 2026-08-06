@@ -11,7 +11,7 @@
   <meta property="og:title" content="<%= profile.name %> | Awesome Pakistan">
   <meta property="og:description" content="Public profile in the Pakistani open-source directory: <%= profile.technologies.join(', ') %>.">
   <meta property="og:url" content="<%= profile.profile_url %>">
-  <meta property="og:image" content="<%= metadata.canonical_url %>assets/og.png">
+  <meta property="og:image" content="<%= metadata.canonical_url %>assets/og-v2.png">
   <meta name="twitter:card" content="summary_large_image">
   <link rel="stylesheet" href="../../assets/styles.css">
   <script type="application/ld+json"><%- jsonForHtml(jsonLd) %></script>
@@ -22,7 +22,10 @@
       <span class="brand-mark" aria-hidden="true">PK</span>
       <span>Awesome Pakistan</span>
     </a>
-    <a class="header-link" href="<%= metadata.repository_url %>">View source on GitHub</a>
+    <nav class="site-nav" aria-label="Primary navigation">
+      <a class="contribute-link" href="<%= metadata.repository_url %>/blob/03dd22f25504e379623d60186aab7f641deebc1b/CONTRIBUTING.md">Add or correct an entry</a>
+      <a class="github-link" href="<%= metadata.repository_url %>"><%- githubIcon %><span>GitHub</span></a>
+    </nav>
   </header>
 
   <main class="profile-main">
@@ -30,13 +33,13 @@
     <article class="profile-detail">
       <p class="eyebrow"><%= profile.section %></p>
       <h1><%= profile.name %></h1>
-      <% if (profile.github_user) { %><p class="profile-handle"><a href="<%= profile.github_link %>">@<%= profile.github_user %> on GitHub</a></p><% } %>
+      <% if (profile.github_user) { %><p class="profile-handle"><a href="<%= profile.github_link %>"><%- githubIcon %>@<%= profile.github_user %> on GitHub</a></p><% } %>
       <h2>Technologies and focus</h2>
       <ul class="technology-list technology-list-large">
-        <% for (const technology of profile.technologies) { %><li><%= technology %></li><% } %>
+        <% for (const technology of profile.technologies) { %><li><%- technologyIcon(technology) %><span><%= technology %></span></li><% } %>
       </ul>
       <div class="profile-actions">
-        <% if (profile.github_link) { %><a class="button button-primary" href="<%= profile.github_link %>">View GitHub profile</a><% } %>
+        <% if (profile.github_link) { %><a class="button button-primary" href="<%= profile.github_link %>"><%- githubIcon %>View GitHub profile</a><% } %>
         <a class="button button-secondary" href="<%= profile.web %>">Visit <%= profile.name %> website</a>
       </div>
       <aside class="verification-note">

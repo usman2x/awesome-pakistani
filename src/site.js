@@ -3,9 +3,52 @@
 const fs = require('fs');
 const path = require('path');
 const ejs = require('ejs');
+const icons = require('simple-icons');
 
 const siteSourceDirectory = path.join(__dirname, 'site');
 const repositoryDirectory = path.join(__dirname, '..');
+const siteAssetsDirectory = path.join(siteSourceDirectory, 'assets');
+
+const technologyIcons = new Map([
+    ['android', icons.siAndroid],
+    ['c', icons.siC],
+    ['c++', icons.siCplusplus],
+    ['c#', icons.siSharp],
+    ['docker', icons.siDocker],
+    ['expo', icons.siExpo],
+    ['express', icons.siExpress],
+    ['express js', icons.siExpress],
+    ['express.js', icons.siExpress],
+    ['firebase', icons.siFirebase],
+    ['go', icons.siGo],
+    ['java', icons.siOpenjdk],
+    ['javascript', icons.siJavascript],
+    ['kotlin', icons.siKotlin],
+    ['laravel', icons.siLaravel],
+    ['mongodb', icons.siMongodb],
+    ['mysql', icons.siMysql],
+    ['next.js', icons.siNextdotjs],
+    ['node js', icons.siNodedotjs],
+    ['node.js', icons.siNodedotjs],
+    ['nodejs', icons.siNodedotjs],
+    ['php', icons.siPhp],
+    ['postgresql', icons.siPostgresql],
+    ['postman', icons.siPostman],
+    ['prisma', icons.siPrisma],
+    ['python', icons.siPython],
+    ['react', icons.siReact],
+    ['react js', icons.siReact],
+    ['react.js', icons.siReact],
+    ['react native', icons.siReact],
+    ['ruby', icons.siRuby],
+    ['rust', icons.siRust],
+    ['sass', icons.siSass],
+    ['swift', icons.siSwift],
+    ['tailwind css', icons.siTailwindcss],
+    ['tailwindcss', icons.siTailwindcss],
+    ['typescript', icons.siTypescript],
+    ['wordpress', icons.siWordpress]
+]);
 
 function slugify(value) {
     return value
@@ -42,7 +85,18 @@ function readSiteSource(filename) {
 }
 
 function removeTrailingWhitespace(value) {
-    return value.replace(/[ \t]+$/gm, '');
+    return Buffer.isBuffer(value) ? value : value.replace(/[ \t]+$/gm, '');
+}
+
+function svgIcon(icon, className = 'icon') {
+    return `<svg class="${className}" aria-hidden="true" viewBox="0 0 24 24" focusable="false"><path d="${icon.path}"></path></svg>`;
+}
+
+function technologyIcon(technology) {
+    const icon = technologyIcons.get(technology.trim().toLowerCase());
+    return icon
+        ? svgIcon(icon, 'technology-icon')
+        : '<span class="technology-icon technology-icon-fallback" aria-hidden="true">&lt;/&gt;</span>';
 }
 
 function buildSiteFiles(data) {
@@ -113,7 +167,9 @@ function buildSiteFiles(data) {
         profiles,
         slugify,
         jsonForHtml,
-        profileUrl
+        profileUrl,
+        githubIcon: svgIcon(icons.siGithub, 'github-icon'),
+        technologyIcon
     };
 
     files.set('index.html', ejs.render(indexTemplate, {
@@ -172,6 +228,9 @@ function buildSiteFiles(data) {
     files.set('awesome-data.schema.json', fs.readFileSync(path.join(repositoryDirectory, 'awesome-data.schema.json'), 'utf8'));
     files.set('assets/styles.css', readSiteSource('styles.css'));
     files.set('assets/app.js', readSiteSource('app.js'));
+    files.set('assets/geist-sans.woff2', fs.readFileSync(path.join(siteAssetsDirectory, 'geist-sans.woff2')));
+    files.set('assets/geist-mono.woff2', fs.readFileSync(path.join(siteAssetsDirectory, 'geist-mono.woff2')));
+    files.set('assets/GEIST-LICENSE.txt', fs.readFileSync(path.join(siteAssetsDirectory, 'GEIST-LICENSE.txt'), 'utf8'));
     files.set('.nojekyll', '');
 
     return new Map([...files].map(([relativePath, content]) => [
