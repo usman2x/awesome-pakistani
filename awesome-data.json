@@ -6,7 +6,7 @@
         "canonical_url": "https://usman2x.github.io/awesome-pakistani/",
         "repository_url": "https://github.com/usman2x/awesome-pakistani",
         "license": "MIT",
-        "last_updated": "2026-08-06"
+        "last_updated": "2026-08-20"
     },
     "awesome": [
         {
@@ -572,6 +572,16 @@
                         "TypeScript",
                         "React",
                         "Docker"
+                    ]
+                },
+                {
+                    "name": "Saad Salman",
+                    "github_link": "https://github.com/saadsalmankhan",
+                    "github_user": "saadsalmankhan",
+                    "web": "https://saadsalman.org",
+                    "technologies": [
+                        "TypeScript",
+                        "Node.js"
                     ]
                 }
             ]
