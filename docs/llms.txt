@@ -7,4 +7,4 @@ A community-maintained directory of Pakistani open-source developers, GitHub con
 - JSON dataset: https://usman2x.github.io/awesome-pakistani/data/awesome-pakistani.json
 - JSON Schema: https://usman2x.github.io/awesome-pakistani/awesome-data.schema.json
 - Citation metadata: https://github.com/usman2x/awesome-pakistani/blob/master/CITATION.cff
-- Last updated: 2026-08-06
+- Last updated: 2026-08-20
