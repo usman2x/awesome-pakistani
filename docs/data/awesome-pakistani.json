@@ -573,6 +573,19 @@
             "React",
             "Docker"
           ]
+        },
+        {
+          "name": "Naveed Kumbhar",
+          "github_link": "https://github.com/naveedkumbhar",
+          "github_user": "naveedkumbhar",
+          "web": "https://shajjra.com",
+          "technologies": [
+            "PHP",
+            "Laravel",
+            "JavaScript",
+            "TailwindCSS",
+            "DevOps"
+          ]
         }
       ]
     },

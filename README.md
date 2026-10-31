@@ -2,13 +2,13 @@
 
 > **Awesome Pakistan** is a community-maintained directory of Pakistani open-source developers, GitHub contributors, software organizations, technology communities, and open-source events.
 
-Browse **58 public profiles** by technology and category. The structured source is available in [`awesome-data.json`](./awesome-data.json), and the searchable web directory is published at [usman2x.github.io/awesome-pakistani](https://usman2x.github.io/awesome-pakistani/).
+Browse **59 public profiles** by technology and category. The structured source is available in [`awesome-data.json`](./awesome-data.json), and the searchable web directory is published at [usman2x.github.io/awesome-pakistani](https://usman2x.github.io/awesome-pakistani/).
 
 Last updated: **2026-08-06**
 
 ## Directory
 
-- [Pakistani Open-Source Developers](#pakistani-open-source-developers) (51)
+- [Pakistani Open-Source Developers](#pakistani-open-source-developers) (52)
 - [Pakistani Open-Source Organizations](#pakistani-open-source-organizations) (6)
 - [Open-Source Communities and Events in Pakistan](#open-source-communities-and-events-in-pakistan) (1)
 
@@ -67,6 +67,7 @@ Last updated: **2026-08-06**
 | Masab Qurban | [@masabqurban](https://github.com/masabqurban) | React.js, Next.js, Node.js, Express.js, Laravel, JavaScript, TypeScript, Python, PostgreSQL, MySQL, MongoDB, Prisma, Tailwind CSS | [Masab Qurban website](https://www.masabqurban.com/) |
 | Shahjahan Samoon | [@Shahjahan786](https://github.com/Shahjahan786) | Java, Kotlin, C#, Python, PHP, JavaScript, Objective-C, Swift | [Shahjahan Samoon website](https://github.com/Shahjahan786) |
 | Muawiya Amir | [@Muawiya-contact](https://github.com/Muawiya-contact) | Python, Artificial Intelligence, Machine Learning, Data Engineering, JavaScript, TypeScript, React, Docker | [Muawiya Amir website](https://muawiya-contact.github.io/muawiya-portfolio/) |
+| Naveed Kumbhar | [@naveedkumbhar](https://github.com/naveedkumbhar) | PHP, Laravel, JavaScript, TailwindCSS, DevOps | [Naveed Kumbhar website](https://shajjra.com) |
 
 ## Pakistani Open-Source Organizations
 
