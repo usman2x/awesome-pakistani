@@ -67,7 +67,7 @@ Last updated: **2026-08-06**
 | Masab Qurban | [@masabqurban](https://github.com/masabqurban) | React.js, Next.js, Node.js, Express.js, Laravel, JavaScript, TypeScript, Python, PostgreSQL, MySQL, MongoDB, Prisma, Tailwind CSS | [Masab Qurban website](https://www.masabqurban.com/) |
 | Shahjahan Samoon | [@Shahjahan786](https://github.com/Shahjahan786) | Java, Kotlin, C#, Python, PHP, JavaScript, Objective-C, Swift | [Shahjahan Samoon website](https://github.com/Shahjahan786) |
 | Muawiya Amir | [@Muawiya-contact](https://github.com/Muawiya-contact) | Python, Artificial Intelligence, Machine Learning, Data Engineering, JavaScript, TypeScript, React, Docker | [Muawiya Amir website](https://muawiya-contact.github.io/muawiya-portfolio/) |
-| Naveed Kumbhar | [@naveedkumbhar](https://github.com/naveedkumbhar) | PHP, Laravel, JavaScript, TailwindCSS, DevOps | [Naveed Kumbhar website](https://shajjra.com) |
+| Naveed Kumbhar | [@naveedkumbhar](https://github.com/naveedkumbhar) | Kubernetes, Cloud Architecture, DevOps, SRE | [Naveed Kumbhar website](https://naveedkumbhar.com) |
 
 ## Pakistani Open-Source Organizations
 

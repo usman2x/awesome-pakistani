@@ -578,13 +578,12 @@
           "name": "Naveed Kumbhar",
           "github_link": "https://github.com/naveedkumbhar",
           "github_user": "naveedkumbhar",
-          "web": "https://shajjra.com",
+          "web": "https://naveedkumbhar.com",
           "technologies": [
-            "PHP",
-            "Laravel",
-            "JavaScript",
-            "TailwindCSS",
-            "DevOps"
+            "Kubernetes",
+            "Cloud Architecture",
+            "DevOps",
+            "SRE"
           ]
         }
       ]
