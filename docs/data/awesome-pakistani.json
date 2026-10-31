@@ -573,6 +573,18 @@
             "React",
             "Docker"
           ]
+        },
+        {
+          "name": "Naveed Kumbhar",
+          "github_link": "https://github.com/naveedkumbhar",
+          "github_user": "naveedkumbhar",
+          "web": "https://naveedkumbhar.com",
+          "technologies": [
+            "Kubernetes",
+            "Cloud Architecture",
+            "DevOps",
+            "SRE"
+          ]
         }
       ]
     },
